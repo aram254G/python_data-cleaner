@@ -1,0 +1,1434 @@
+Source Row,Transaction ID,Column,Original Value,Issue
+248,TXN_7360193,Entire row,,Exact duplicate row removed.
+683,TXN_4048782,Entire row,,Exact duplicate row removed.
+1934,TXN_8461821,Entire row,,Exact duplicate row removed.
+2095,TXN_6400156,Entire row,,Exact duplicate row removed.
+2366,TXN_3526386,Entire row,,Exact duplicate row removed.
+2371,TXN_3017255,Entire row,,Exact duplicate row removed.
+2470,TXN_7107444,Entire row,,Exact duplicate row removed.
+2483,TXN_3977299,Entire row,,Exact duplicate row removed.
+2655,TXN_1504898,Entire row,,Exact duplicate row removed.
+2686,TXN_9431274,Entire row,,Exact duplicate row removed.
+2726,TXN_9446548,Entire row,,Exact duplicate row removed.
+2758,TXN_7546683,Entire row,,Exact duplicate row removed.
+2872,TXN_4856843,Entire row,,Exact duplicate row removed.
+2913,TXN_3421267,Entire row,,Exact duplicate row removed.
+2986,TXN_3561412,Entire row,,Exact duplicate row removed.
+3180,TXN_6643693,Entire row,,Exact duplicate row removed.
+3277,TXN_5071867,Entire row,,Exact duplicate row removed.
+3304,TXN_9402892,Entire row,,Exact duplicate row removed.
+3658,TXN_9384640,Entire row,,Exact duplicate row removed.
+3830,TXN_8631273,Entire row,,Exact duplicate row removed.
+3860,TXN_3367051,Entire row,,Exact duplicate row removed.
+3864,TXN_7986595,Entire row,,Exact duplicate row removed.
+3993,TXN_6648400,Entire row,,Exact duplicate row removed.
+4064,TXN_7444067,Entire row,,Exact duplicate row removed.
+4084,TXN_1655423,Entire row,,Exact duplicate row removed.
+4108,TXN_6709646,Entire row,,Exact duplicate row removed.
+4117,TXN_8300259,Entire row,,Exact duplicate row removed.
+4157,TXN_1611821,Entire row,,Exact duplicate row removed.
+4214,TXN_6812085,Entire row,,Exact duplicate row removed.
+4352,TXN_3558046,Entire row,,Exact duplicate row removed.
+4741,TXN_1863376,Entire row,,Exact duplicate row removed.
+4756,TXN_5451774,Entire row,,Exact duplicate row removed.
+4779,TXN_5206989,Entire row,,Exact duplicate row removed.
+4797,TXN_9554855,Entire row,,Exact duplicate row removed.
+4831,TXN_8632285,Entire row,,Exact duplicate row removed.
+1243,TXN_4473142,Price Per Unit,,Price remains unknown; reliable evidence was unavailable.
+100,TXN_5995314,Quantity,,Quantity is missing; verify against a trusted source.
+225,TXN_6050496,Quantity,,Quantity is missing; verify against a trusted source.
+282,TXN_4756082,Quantity,,Quantity is missing; verify against a trusted source.
+353,TXN_8366210,Quantity,,Quantity is missing; verify against a trusted source.
+376,TXN_2054613,Quantity,,Quantity is missing; verify against a trusted source.
+439,TXN_8307700,Quantity,,Quantity is missing; verify against a trusted source.
+440,TXN_9044665,Quantity,,Quantity is missing; verify against a trusted source.
+449,TXN_6409861,Quantity,,Quantity is missing; verify against a trusted source.
+632,TXN_4322099,Quantity,,Quantity is missing; verify against a trusted source.
+788,TXN_5084584,Quantity,,Quantity is missing; verify against a trusted source.
+939,TXN_9888836,Quantity,,Quantity is missing; verify against a trusted source.
+946,TXN_8191611,Quantity,,Quantity is missing; verify against a trusted source.
+1072,TXN_1508062,Quantity,,Quantity is missing; verify against a trusted source.
+1168,TXN_5546925,Quantity,,Quantity is missing; verify against a trusted source.
+1181,TXN_9384640,Quantity,,Quantity is missing; verify against a trusted source.
+1183,TXN_6994749,Quantity,,Quantity is missing; verify against a trusted source.
+1197,TXN_5591598,Quantity,,Quantity is missing; verify against a trusted source.
+1292,TXN_3619526,Quantity,,Quantity is missing; verify against a trusted source.
+1429,TXN_7192860,Quantity,,Quantity is missing; verify against a trusted source.
+1505,TXN_9239940,Quantity,,Quantity is missing; verify against a trusted source.
+1522,TXN_5368270,Quantity,,Quantity is missing; verify against a trusted source.
+1531,TXN_9318849,Quantity,,Quantity is missing; verify against a trusted source.
+1952,TXN_5416728,Quantity,,Quantity is missing; verify against a trusted source.
+2074,TXN_2815689,Quantity,,Quantity is missing; verify against a trusted source.
+2119,TXN_1627097,Quantity,,Quantity is missing; verify against a trusted source.
+2165,TXN_7656289,Quantity,,Quantity is missing; verify against a trusted source.
+2172,TXN_6083212,Quantity,,Quantity is missing; verify against a trusted source.
+2176,TXN_7022822,Quantity,,Quantity is missing; verify against a trusted source.
+2181,TXN_4494403,Quantity,,Quantity is missing; verify against a trusted source.
+2248,TXN_7834454,Quantity,,Quantity is missing; verify against a trusted source.
+2258,TXN_5914150,Quantity,,Quantity is missing; verify against a trusted source.
+2280,TXN_2602595,Quantity,,Quantity is missing; verify against a trusted source.
+2282,TXN_5776194,Quantity,,Quantity is missing; verify against a trusted source.
+2449,TXN_2133243,Quantity,,Quantity is missing; verify against a trusted source.
+2460,TXN_6375088,Quantity,,Quantity is missing; verify against a trusted source.
+2553,TXN_6039522,Quantity,,Quantity is missing; verify against a trusted source.
+2834,TXN_2169715,Quantity,,Quantity is missing; verify against a trusted source.
+2852,TXN_4326254,Quantity,,Quantity is missing; verify against a trusted source.
+3153,TXN_9686283,Quantity,,Quantity is missing; verify against a trusted source.
+3205,TXN_7939191,Quantity,,Quantity is missing; verify against a trusted source.
+3286,TXN_1826580,Quantity,,Quantity is missing; verify against a trusted source.
+3432,TXN_7742620,Quantity,,Quantity is missing; verify against a trusted source.
+3494,TXN_6535820,Quantity,,Quantity is missing; verify against a trusted source.
+3535,TXN_7039799,Quantity,,Quantity is missing; verify against a trusted source.
+3571,TXN_4590511,Quantity,,Quantity is missing; verify against a trusted source.
+3599,TXN_9425567,Quantity,,Quantity is missing; verify against a trusted source.
+3812,TXN_5683024,Quantity,,Quantity is missing; verify against a trusted source.
+3881,TXN_9536326,Quantity,,Quantity is missing; verify against a trusted source.
+3887,TXN_4006809,Quantity,,Quantity is missing; verify against a trusted source.
+4028,TXN_4814859,Quantity,,Quantity is missing; verify against a trusted source.
+4186,TXN_6267761,Quantity,,Quantity is missing; verify against a trusted source.
+4197,TXN_4864044,Quantity,,Quantity is missing; verify against a trusted source.
+4423,TXN_9499557,Quantity,,Quantity is missing; verify against a trusted source.
+4500,TXN_8938553,Quantity,,Quantity is missing; verify against a trusted source.
+4509,TXN_1239013,Quantity,,Quantity is missing; verify against a trusted source.
+4593,TXN_6031264,Quantity,,Quantity is missing; verify against a trusted source.
+4812,TXN_8659730,Quantity,,Quantity is missing; verify against a trusted source.
+4891,TXN_6354697,Quantity,,Quantity is missing; verify against a trusted source.
+4996,TXN_9176113,Quantity,,Quantity is missing; verify against a trusted source.
+5029,TXN_2405326,Quantity,,Quantity is missing; verify against a trusted source.
+48,TXN_1229726,Total Spent,20.25,Total disagreed with price multiplied by quantity; corrected.
+58,TXN_7585891,Total Spent,121.5,Total disagreed with price multiplied by quantity; corrected.
+174,TXN_3199989,Total Spent,21.0,Total disagreed with price multiplied by quantity; corrected.
+275,TXN_6497191,Total Spent,216.0,Total disagreed with price multiplied by quantity; corrected.
+365,TXN_7288956,Total Spent,20.25,Total disagreed with price multiplied by quantity; corrected.
+388,TXN_6778842,Total Spent,90.0,Total disagreed with price multiplied by quantity; corrected.
+567,TXN_6240527,Total Spent,22.5,Total disagreed with price multiplied by quantity; corrected.
+627,TXN_8098334,Total Spent,9.0,Total disagreed with price multiplied by quantity; corrected.
+633,TXN_2265598,Total Spent,210.0,Total disagreed with price multiplied by quantity; corrected.
+887,TXN_1988494,Total Spent,135.0,Total disagreed with price multiplied by quantity; corrected.
+991,TXN_9006669,Total Spent,262.5,Total disagreed with price multiplied by quantity; corrected.
+996,TXN_7209774,Total Spent,12.0,Total disagreed with price multiplied by quantity; corrected.
+1099,TXN_9482043,Total Spent,21.0,Total disagreed with price multiplied by quantity; corrected.
+1115,TXN_6881344,Total Spent,33.0,Total disagreed with price multiplied by quantity; corrected.
+1236,TXN_1195961,Total Spent,157.5,Total disagreed with price multiplied by quantity; corrected.
+1291,TXN_8622663,Total Spent,36.0,Total disagreed with price multiplied by quantity; corrected.
+1318,TXN_7290610,Total Spent,54.0,Total disagreed with price multiplied by quantity; corrected.
+1384,TXN_1448567,Total Spent,10.5,Total disagreed with price multiplied by quantity; corrected.
+1519,TXN_3884112,Total Spent,49.5,Total disagreed with price multiplied by quantity; corrected.
+1543,TXN_6611490,Total Spent,27.0,Total disagreed with price multiplied by quantity; corrected.
+1681,TXN_1707593,Total Spent,20.25,Total disagreed with price multiplied by quantity; corrected.
+1776,TXN_3312511,Total Spent,6.75,Total disagreed with price multiplied by quantity; corrected.
+1828,TXN_6402740,Total Spent,525.0,Total disagreed with price multiplied by quantity; corrected.
+1883,TXN_2257949,Total Spent,960.0,Total disagreed with price multiplied by quantity; corrected.
+1902,TXN_2932527,Total Spent,1800.0,Total disagreed with price multiplied by quantity; corrected.
+1912,TXN_1512719,Total Spent,20.25,Total disagreed with price multiplied by quantity; corrected.
+1988,TXN_2646711,Total Spent,3.75,Total disagreed with price multiplied by quantity; corrected.
+2054,TXN_7808815,Total Spent,16.5,Total disagreed with price multiplied by quantity; corrected.
+2083,TXN_2264330,Total Spent,67.5,Total disagreed with price multiplied by quantity; corrected.
+2088,TXN_4113534,Total Spent,7.5,Total disagreed with price multiplied by quantity; corrected.
+2115,TXN_9298493,Total Spent,36.75,Total disagreed with price multiplied by quantity; corrected.
+2159,TXN_8307322,Total Spent,420.0,Total disagreed with price multiplied by quantity; corrected.
+2361,TXN_5028054,Total Spent,18.0,Total disagreed with price multiplied by quantity; corrected.
+2393,TXN_3088062,Total Spent,360.0,Total disagreed with price multiplied by quantity; corrected.
+2544,TXN_7812814,Total Spent,66.0,Total disagreed with price multiplied by quantity; corrected.
+2621,TXN_1791893,Total Spent,47.25,Total disagreed with price multiplied by quantity; corrected.
+2704,TXN_6723300,Total Spent,168.0,Total disagreed with price multiplied by quantity; corrected.
+2865,TXN_9596108,Total Spent,47.25,Total disagreed with price multiplied by quantity; corrected.
+2870,TXN_1124283,Total Spent,22.5,Total disagreed with price multiplied by quantity; corrected.
+2892,TXN_7103586,Total Spent,7.5,Total disagreed with price multiplied by quantity; corrected.
+2947,TXN_9461714,Total Spent,1425.0,Total disagreed with price multiplied by quantity; corrected.
+3204,TXN_7877815,Total Spent,420.0,Total disagreed with price multiplied by quantity; corrected.
+3327,TXN_4699243,Total Spent,15.75,Total disagreed with price multiplied by quantity; corrected.
+3575,TXN_8265795,Total Spent,3.0,Total disagreed with price multiplied by quantity; corrected.
+3592,TXN_2893223,Total Spent,6.75,Total disagreed with price multiplied by quantity; corrected.
+3608,TXN_7489396,Total Spent,9.0,Total disagreed with price multiplied by quantity; corrected.
+3632,TXN_5405614,Total Spent,60.0,Total disagreed with price multiplied by quantity; corrected.
+3719,TXN_1727402,Total Spent,21.0,Total disagreed with price multiplied by quantity; corrected.
+3722,TXN_3390785,Total Spent,20.25,Total disagreed with price multiplied by quantity; corrected.
+3742,TXN_7214624,Total Spent,6.75,Total disagreed with price multiplied by quantity; corrected.
+3747,TXN_1507607,Total Spent,36.0,Total disagreed with price multiplied by quantity; corrected.
+3831,TXN_7618482,Total Spent,9.0,Total disagreed with price multiplied by quantity; corrected.
+3933,TXN_4987319,Total Spent,72.0,Total disagreed with price multiplied by quantity; corrected.
+3951,TXN_3013488,Total Spent,45.0,Total disagreed with price multiplied by quantity; corrected.
+3966,TXN_3036314,Total Spent,42.0,Total disagreed with price multiplied by quantity; corrected.
+3977,TXN_7897243,Total Spent,187.5,Total disagreed with price multiplied by quantity; corrected.
+4033,TXN_4708698,Total Spent,72.0,Total disagreed with price multiplied by quantity; corrected.
+4036,TXN_4952255,Total Spent,231.0,Total disagreed with price multiplied by quantity; corrected.
+4065,TXN_3338782,Total Spent,900.0,Total disagreed with price multiplied by quantity; corrected.
+4079,TXN_8900614,Total Spent,40.5,Total disagreed with price multiplied by quantity; corrected.
+4162,TXN_4858414,Total Spent,54.0,Total disagreed with price multiplied by quantity; corrected.
+4191,TXN_7409363,Total Spent,42.0,Total disagreed with price multiplied by quantity; corrected.
+4246,TXN_5835528,Total Spent,54.0,Total disagreed with price multiplied by quantity; corrected.
+4270,TXN_4210465,Total Spent,2.25,Total disagreed with price multiplied by quantity; corrected.
+4277,TXN_3531196,Total Spent,13.5,Total disagreed with price multiplied by quantity; corrected.
+4493,TXN_4448678,Total Spent,15.75,Total disagreed with price multiplied by quantity; corrected.
+4647,TXN_8262497,Total Spent,9.0,Total disagreed with price multiplied by quantity; corrected.
+4680,TXN_5050230,Total Spent,27.0,Total disagreed with price multiplied by quantity; corrected.
+4687,TXN_6126845,Total Spent,21.0,Total disagreed with price multiplied by quantity; corrected.
+4742,TXN_9143015,Total Spent,101.25,Total disagreed with price multiplied by quantity; corrected.
+4838,TXN_7579850,Total Spent,18.0,Total disagreed with price multiplied by quantity; corrected.
+4856,TXN_8995515,Total Spent,30.0,Total disagreed with price multiplied by quantity; corrected.
+4916,TXN_6696013,Total Spent,36.0,Total disagreed with price multiplied by quantity; corrected.
+4925,TXN_5188891,Total Spent,72.0,Total disagreed with price multiplied by quantity; corrected.
+5021,TXN_5078452,Total Spent,15.75,Total disagreed with price multiplied by quantity; corrected.
+100,TXN_5995314,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+225,TXN_6050496,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+282,TXN_4756082,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+353,TXN_8366210,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+376,TXN_2054613,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+439,TXN_8307700,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+440,TXN_9044665,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+449,TXN_6409861,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+632,TXN_4322099,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+788,TXN_5084584,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+939,TXN_9888836,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+946,TXN_8191611,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+1072,TXN_1508062,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+1168,TXN_5546925,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+1181,TXN_9384640,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+1183,TXN_6994749,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+1197,TXN_5591598,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+1243,TXN_4473142,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+1292,TXN_3619526,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+1429,TXN_7192860,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+1505,TXN_9239940,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+1522,TXN_5368270,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+1531,TXN_9318849,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+1952,TXN_5416728,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+2074,TXN_2815689,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+2119,TXN_1627097,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+2165,TXN_7656289,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+2172,TXN_6083212,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+2176,TXN_7022822,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+2181,TXN_4494403,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+2248,TXN_7834454,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+2258,TXN_5914150,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+2280,TXN_2602595,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+2282,TXN_5776194,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+2449,TXN_2133243,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+2460,TXN_6375088,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+2553,TXN_6039522,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+2834,TXN_2169715,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+2852,TXN_4326254,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+3153,TXN_9686283,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+3205,TXN_7939191,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+3286,TXN_1826580,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+3432,TXN_7742620,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+3494,TXN_6535820,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+3535,TXN_7039799,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+3571,TXN_4590511,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+3599,TXN_9425567,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+3812,TXN_5683024,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+3881,TXN_9536326,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+3887,TXN_4006809,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+4028,TXN_4814859,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+4186,TXN_6267761,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+4197,TXN_4864044,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+4423,TXN_9499557,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+4500,TXN_8938553,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+4509,TXN_1239013,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+4593,TXN_6031264,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+4812,TXN_8659730,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+4891,TXN_6354697,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+4996,TXN_9176113,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+5029,TXN_2405326,Total Spent,,Existing total could not be verified because price or quantity is unresolved.
+5,TXN_9836832,Discount Applied,,Discount status is missing; no assumption made.
+6,TXN_9236843,Discount Applied,,Discount status is missing; no assumption made.
+8,TXN_3881777,Discount Applied,,Discount status is missing; no assumption made.
+11,TXN_9002619,Discount Applied,,Discount status is missing; no assumption made.
+22,TXN_9537333,Discount Applied,,Discount status is missing; no assumption made.
+24,TXN_7939691,Discount Applied,,Discount status is missing; no assumption made.
+26,TXN_2808516,Discount Applied,,Discount status is missing; no assumption made.
+29,TXN_6313766,Discount Applied,,Discount status is missing; no assumption made.
+35,TXN_9454357,Discount Applied,,Discount status is missing; no assumption made.
+38,TXN_9752967,Discount Applied,,Discount status is missing; no assumption made.
+39,TXN_6587757,Discount Applied,,Discount status is missing; no assumption made.
+43,TXN_7795438,Discount Applied,,Discount status is missing; no assumption made.
+50,TXN_9848716,Discount Applied,,Discount status is missing; no assumption made.
+54,TXN_4149139,Discount Applied,,Discount status is missing; no assumption made.
+57,TXN_6051921,Discount Applied,,Discount status is missing; no assumption made.
+65,TXN_9820116,Discount Applied,,Discount status is missing; no assumption made.
+66,TXN_7187941,Discount Applied,,Discount status is missing; no assumption made.
+67,TXN_6557821,Discount Applied,,Discount status is missing; no assumption made.
+71,TXN_6997895,Discount Applied,,Discount status is missing; no assumption made.
+78,TXN_5719607,Discount Applied,,Discount status is missing; no assumption made.
+80,TXN_7049850,Discount Applied,,Discount status is missing; no assumption made.
+81,TXN_9512558,Discount Applied,,Discount status is missing; no assumption made.
+86,TXN_6090749,Discount Applied,,Discount status is missing; no assumption made.
+90,TXN_2976024,Discount Applied,,Discount status is missing; no assumption made.
+92,TXN_7875402,Discount Applied,,Discount status is missing; no assumption made.
+94,TXN_1686976,Discount Applied,,Discount status is missing; no assumption made.
+95,TXN_3108086,Discount Applied,,Discount status is missing; no assumption made.
+98,TXN_8598327,Discount Applied,,Discount status is missing; no assumption made.
+103,TXN_7509000,Discount Applied,,Discount status is missing; no assumption made.
+111,TXN_4850404,Discount Applied,,Discount status is missing; no assumption made.
+114,TXN_4653188,Discount Applied,,Discount status is missing; no assumption made.
+120,TXN_6400156,Discount Applied,,Discount status is missing; no assumption made.
+121,TXN_1286132,Discount Applied,,Discount status is missing; no assumption made.
+123,TXN_2149463,Discount Applied,,Discount status is missing; no assumption made.
+127,TXN_4008629,Discount Applied,,Discount status is missing; no assumption made.
+128,TXN_3274316,Discount Applied,,Discount status is missing; no assumption made.
+134,TXN_9174433,Discount Applied,,Discount status is missing; no assumption made.
+136,TXN_4743797,Discount Applied,,Discount status is missing; no assumption made.
+140,TXN_5777376,Discount Applied,,Discount status is missing; no assumption made.
+141,TXN_6440107,Discount Applied,,Discount status is missing; no assumption made.
+142,TXN_7872699,Discount Applied,,Discount status is missing; no assumption made.
+143,TXN_4107153,Discount Applied,,Discount status is missing; no assumption made.
+146,TXN_7202325,Discount Applied,,Discount status is missing; no assumption made.
+150,TXN_1475147,Discount Applied,,Discount status is missing; no assumption made.
+154,TXN_8489305,Discount Applied,,Discount status is missing; no assumption made.
+160,TXN_7620241,Discount Applied,,Discount status is missing; no assumption made.
+167,TXN_3465849,Discount Applied,,Discount status is missing; no assumption made.
+168,TXN_2989645,Discount Applied,,Discount status is missing; no assumption made.
+172,TXN_8982512,Discount Applied,,Discount status is missing; no assumption made.
+179,TXN_4567312,Discount Applied,,Discount status is missing; no assumption made.
+182,TXN_8749065,Discount Applied,,Discount status is missing; no assumption made.
+183,TXN_9933599,Discount Applied,,Discount status is missing; no assumption made.
+187,TXN_2083380,Discount Applied,,Discount status is missing; no assumption made.
+189,TXN_1432759,Discount Applied,,Discount status is missing; no assumption made.
+192,TXN_1050073,Discount Applied,,Discount status is missing; no assumption made.
+194,TXN_5964197,Discount Applied,,Discount status is missing; no assumption made.
+203,TXN_4883337,Discount Applied,,Discount status is missing; no assumption made.
+206,TXN_5431449,Discount Applied,,Discount status is missing; no assumption made.
+208,TXN_5387405,Discount Applied,,Discount status is missing; no assumption made.
+216,TXN_6787749,Discount Applied,,Discount status is missing; no assumption made.
+223,TXN_8809345,Discount Applied,,Discount status is missing; no assumption made.
+225,TXN_6050496,Discount Applied,,Discount status is missing; no assumption made.
+233,TXN_9837039,Discount Applied,,Discount status is missing; no assumption made.
+236,TXN_4030082,Discount Applied,,Discount status is missing; no assumption made.
+244,TXN_8314019,Discount Applied,,Discount status is missing; no assumption made.
+247,TXN_6982035,Discount Applied,,Discount status is missing; no assumption made.
+251,TXN_1999078,Discount Applied,,Discount status is missing; no assumption made.
+252,TXN_1155790,Discount Applied,,Discount status is missing; no assumption made.
+258,TXN_2033290,Discount Applied,,Discount status is missing; no assumption made.
+262,TXN_3577988,Discount Applied,,Discount status is missing; no assumption made.
+263,TXN_6810041,Discount Applied,,Discount status is missing; no assumption made.
+268,TXN_1023382,Discount Applied,,Discount status is missing; no assumption made.
+270,TXN_7091209,Discount Applied,,Discount status is missing; no assumption made.
+279,TXN_2578458,Discount Applied,,Discount status is missing; no assumption made.
+281,TXN_8593832,Discount Applied,,Discount status is missing; no assumption made.
+286,TXN_5244348,Discount Applied,,Discount status is missing; no assumption made.
+287,TXN_6395384,Discount Applied,,Discount status is missing; no assumption made.
+289,TXN_2553340,Discount Applied,,Discount status is missing; no assumption made.
+290,TXN_6798089,Discount Applied,,Discount status is missing; no assumption made.
+293,TXN_7867273,Discount Applied,,Discount status is missing; no assumption made.
+299,TXN_9508172,Discount Applied,,Discount status is missing; no assumption made.
+301,TXN_5579097,Discount Applied,,Discount status is missing; no assumption made.
+302,TXN_1389130,Discount Applied,,Discount status is missing; no assumption made.
+303,TXN_2852978,Discount Applied,,Discount status is missing; no assumption made.
+316,TXN_5465753,Discount Applied,,Discount status is missing; no assumption made.
+317,TXN_3714683,Discount Applied,,Discount status is missing; no assumption made.
+319,TXN_3783993,Discount Applied,,Discount status is missing; no assumption made.
+320,TXN_7198514,Discount Applied,,Discount status is missing; no assumption made.
+324,TXN_8706113,Discount Applied,,Discount status is missing; no assumption made.
+329,TXN_1668629,Discount Applied,,Discount status is missing; no assumption made.
+334,TXN_9625032,Discount Applied,,Discount status is missing; no assumption made.
+335,TXN_4883866,Discount Applied,,Discount status is missing; no assumption made.
+336,TXN_9461455,Discount Applied,,Discount status is missing; no assumption made.
+338,TXN_7874420,Discount Applied,,Discount status is missing; no assumption made.
+342,TXN_6524070,Discount Applied,,Discount status is missing; no assumption made.
+353,TXN_8366210,Discount Applied,,Discount status is missing; no assumption made.
+355,TXN_1497165,Discount Applied,,Discount status is missing; no assumption made.
+360,TXN_3091823,Discount Applied,,Discount status is missing; no assumption made.
+362,TXN_3473139,Discount Applied,,Discount status is missing; no assumption made.
+370,TXN_3028217,Discount Applied,,Discount status is missing; no assumption made.
+375,TXN_3558046,Discount Applied,,Discount status is missing; no assumption made.
+382,TXN_9615979,Discount Applied,,Discount status is missing; no assumption made.
+384,TXN_1417876,Discount Applied,,Discount status is missing; no assumption made.
+393,TXN_9968449,Discount Applied,,Discount status is missing; no assumption made.
+396,TXN_4846305,Discount Applied,,Discount status is missing; no assumption made.
+397,TXN_2960783,Discount Applied,,Discount status is missing; no assumption made.
+409,TXN_5334965,Discount Applied,,Discount status is missing; no assumption made.
+413,TXN_9993487,Discount Applied,,Discount status is missing; no assumption made.
+420,TXN_9673899,Discount Applied,,Discount status is missing; no assumption made.
+421,TXN_5229911,Discount Applied,,Discount status is missing; no assumption made.
+433,TXN_8016315,Discount Applied,,Discount status is missing; no assumption made.
+441,TXN_7037701,Discount Applied,,Discount status is missing; no assumption made.
+450,TXN_1824653,Discount Applied,,Discount status is missing; no assumption made.
+459,TXN_7616243,Discount Applied,,Discount status is missing; no assumption made.
+461,TXN_8702137,Discount Applied,,Discount status is missing; no assumption made.
+463,TXN_4205228,Discount Applied,,Discount status is missing; no assumption made.
+464,TXN_7082199,Discount Applied,,Discount status is missing; no assumption made.
+468,TXN_7914128,Discount Applied,,Discount status is missing; no assumption made.
+473,TXN_3259071,Discount Applied,,Discount status is missing; no assumption made.
+476,TXN_4362216,Discount Applied,,Discount status is missing; no assumption made.
+477,TXN_1928220,Discount Applied,,Discount status is missing; no assumption made.
+479,TXN_4096215,Discount Applied,,Discount status is missing; no assumption made.
+484,TXN_6334306,Discount Applied,,Discount status is missing; no assumption made.
+485,TXN_8059903,Discount Applied,,Discount status is missing; no assumption made.
+486,TXN_4030490,Discount Applied,,Discount status is missing; no assumption made.
+490,TXN_2872825,Discount Applied,,Discount status is missing; no assumption made.
+493,TXN_5988339,Discount Applied,,Discount status is missing; no assumption made.
+494,TXN_8904601,Discount Applied,,Discount status is missing; no assumption made.
+499,TXN_5197895,Discount Applied,,Discount status is missing; no assumption made.
+501,TXN_3368496,Discount Applied,,Discount status is missing; no assumption made.
+503,TXN_3458547,Discount Applied,,Discount status is missing; no assumption made.
+509,TXN_2399347,Discount Applied,,Discount status is missing; no assumption made.
+513,TXN_4550985,Discount Applied,,Discount status is missing; no assumption made.
+515,TXN_8676005,Discount Applied,,Discount status is missing; no assumption made.
+516,TXN_2651210,Discount Applied,,Discount status is missing; no assumption made.
+523,TXN_6486965,Discount Applied,,Discount status is missing; no assumption made.
+527,TXN_2914851,Discount Applied,,Discount status is missing; no assumption made.
+533,TXN_2279938,Discount Applied,,Discount status is missing; no assumption made.
+538,TXN_8106860,Discount Applied,,Discount status is missing; no assumption made.
+540,TXN_4185714,Discount Applied,,Discount status is missing; no assumption made.
+543,TXN_3992529,Discount Applied,,Discount status is missing; no assumption made.
+545,TXN_5835620,Discount Applied,,Discount status is missing; no assumption made.
+546,TXN_9105925,Discount Applied,,Discount status is missing; no assumption made.
+548,TXN_7546683,Discount Applied,,Discount status is missing; no assumption made.
+556,TXN_2498447,Discount Applied,,Discount status is missing; no assumption made.
+559,TXN_2390179,Discount Applied,,Discount status is missing; no assumption made.
+561,TXN_6807290,Discount Applied,,Discount status is missing; no assumption made.
+570,TXN_8288538,Discount Applied,,Discount status is missing; no assumption made.
+576,TXN_4538236,Discount Applied,,Discount status is missing; no assumption made.
+581,TXN_8815302,Discount Applied,,Discount status is missing; no assumption made.
+582,TXN_3543498,Discount Applied,,Discount status is missing; no assumption made.
+583,TXN_4917000,Discount Applied,,Discount status is missing; no assumption made.
+585,TXN_9228389,Discount Applied,,Discount status is missing; no assumption made.
+587,TXN_2672675,Discount Applied,,Discount status is missing; no assumption made.
+590,TXN_6304201,Discount Applied,,Discount status is missing; no assumption made.
+592,TXN_1629816,Discount Applied,,Discount status is missing; no assumption made.
+598,TXN_5027187,Discount Applied,,Discount status is missing; no assumption made.
+601,TXN_5409013,Discount Applied,,Discount status is missing; no assumption made.
+606,TXN_1031935,Discount Applied,,Discount status is missing; no assumption made.
+607,TXN_5159962,Discount Applied,,Discount status is missing; no assumption made.
+609,TXN_7358236,Discount Applied,,Discount status is missing; no assumption made.
+611,TXN_6010281,Discount Applied,,Discount status is missing; no assumption made.
+612,TXN_6897829,Discount Applied,,Discount status is missing; no assumption made.
+624,TXN_7897498,Discount Applied,,Discount status is missing; no assumption made.
+642,TXN_6137532,Discount Applied,,Discount status is missing; no assumption made.
+644,TXN_4144405,Discount Applied,,Discount status is missing; no assumption made.
+656,TXN_6305377,Discount Applied,,Discount status is missing; no assumption made.
+658,TXN_2775469,Discount Applied,,Discount status is missing; no assumption made.
+665,TXN_3362854,Discount Applied,,Discount status is missing; no assumption made.
+670,TXN_3683554,Discount Applied,,Discount status is missing; no assumption made.
+671,TXN_1106998,Discount Applied,,Discount status is missing; no assumption made.
+672,TXN_8871917,Discount Applied,,Discount status is missing; no assumption made.
+677,TXN_7810183,Discount Applied,,Discount status is missing; no assumption made.
+680,TXN_5249112,Discount Applied,,Discount status is missing; no assumption made.
+691,TXN_9061873,Discount Applied,,Discount status is missing; no assumption made.
+692,TXN_7819902,Discount Applied,,Discount status is missing; no assumption made.
+705,TXN_5062175,Discount Applied,,Discount status is missing; no assumption made.
+711,TXN_6250305,Discount Applied,,Discount status is missing; no assumption made.
+719,TXN_6914063,Discount Applied,,Discount status is missing; no assumption made.
+720,TXN_9508627,Discount Applied,,Discount status is missing; no assumption made.
+721,TXN_1171550,Discount Applied,,Discount status is missing; no assumption made.
+725,TXN_6794182,Discount Applied,,Discount status is missing; no assumption made.
+730,TXN_8327756,Discount Applied,,Discount status is missing; no assumption made.
+733,TXN_6735193,Discount Applied,,Discount status is missing; no assumption made.
+736,TXN_9914164,Discount Applied,,Discount status is missing; no assumption made.
+743,TXN_5421590,Discount Applied,,Discount status is missing; no assumption made.
+744,TXN_5501461,Discount Applied,,Discount status is missing; no assumption made.
+749,TXN_1132309,Discount Applied,,Discount status is missing; no assumption made.
+756,TXN_3132343,Discount Applied,,Discount status is missing; no assumption made.
+759,TXN_6613163,Discount Applied,,Discount status is missing; no assumption made.
+761,TXN_7236718,Discount Applied,,Discount status is missing; no assumption made.
+768,TXN_4777264,Discount Applied,,Discount status is missing; no assumption made.
+775,TXN_5964948,Discount Applied,,Discount status is missing; no assumption made.
+784,TXN_8173404,Discount Applied,,Discount status is missing; no assumption made.
+787,TXN_4491821,Discount Applied,,Discount status is missing; no assumption made.
+791,TXN_2802466,Discount Applied,,Discount status is missing; no assumption made.
+793,TXN_9916311,Discount Applied,,Discount status is missing; no assumption made.
+795,TXN_2652730,Discount Applied,,Discount status is missing; no assumption made.
+797,TXN_5945398,Discount Applied,,Discount status is missing; no assumption made.
+799,TXN_3219627,Discount Applied,,Discount status is missing; no assumption made.
+811,TXN_6840298,Discount Applied,,Discount status is missing; no assumption made.
+816,TXN_9612670,Discount Applied,,Discount status is missing; no assumption made.
+817,TXN_2255300,Discount Applied,,Discount status is missing; no assumption made.
+823,TXN_8452840,Discount Applied,,Discount status is missing; no assumption made.
+827,TXN_3232821,Discount Applied,,Discount status is missing; no assumption made.
+830,TXN_2279372,Discount Applied,,Discount status is missing; no assumption made.
+841,TXN_6273724,Discount Applied,,Discount status is missing; no assumption made.
+844,TXN_5354489,Discount Applied,,Discount status is missing; no assumption made.
+846,TXN_2872154,Discount Applied,,Discount status is missing; no assumption made.
+847,TXN_8426263,Discount Applied,,Discount status is missing; no assumption made.
+851,TXN_4503157,Discount Applied,,Discount status is missing; no assumption made.
+852,TXN_9375614,Discount Applied,,Discount status is missing; no assumption made.
+853,TXN_3597979,Discount Applied,,Discount status is missing; no assumption made.
+856,TXN_8513907,Discount Applied,,Discount status is missing; no assumption made.
+862,TXN_9031721,Discount Applied,,Discount status is missing; no assumption made.
+866,TXN_9165571,Discount Applied,,Discount status is missing; no assumption made.
+867,TXN_5449720,Discount Applied,,Discount status is missing; no assumption made.
+870,TXN_5397768,Discount Applied,,Discount status is missing; no assumption made.
+880,TXN_6082694,Discount Applied,,Discount status is missing; no assumption made.
+881,TXN_6170294,Discount Applied,,Discount status is missing; no assumption made.
+882,TXN_2641455,Discount Applied,,Discount status is missing; no assumption made.
+885,TXN_2338618,Discount Applied,,Discount status is missing; no assumption made.
+887,TXN_1988494,Discount Applied,,Discount status is missing; no assumption made.
+892,TXN_8820707,Discount Applied,,Discount status is missing; no assumption made.
+903,TXN_4664664,Discount Applied,,Discount status is missing; no assumption made.
+906,TXN_9877571,Discount Applied,,Discount status is missing; no assumption made.
+907,TXN_4906358,Discount Applied,,Discount status is missing; no assumption made.
+922,TXN_6375898,Discount Applied,,Discount status is missing; no assumption made.
+930,TXN_5175863,Discount Applied,,Discount status is missing; no assumption made.
+931,TXN_5952987,Discount Applied,,Discount status is missing; no assumption made.
+932,TXN_5766465,Discount Applied,,Discount status is missing; no assumption made.
+936,TXN_5876831,Discount Applied,,Discount status is missing; no assumption made.
+938,TXN_1286172,Discount Applied,,Discount status is missing; no assumption made.
+942,TXN_4199203,Discount Applied,,Discount status is missing; no assumption made.
+945,TXN_3795126,Discount Applied,,Discount status is missing; no assumption made.
+947,TXN_1255931,Discount Applied,,Discount status is missing; no assumption made.
+948,TXN_3507045,Discount Applied,,Discount status is missing; no assumption made.
+950,TXN_8363581,Discount Applied,,Discount status is missing; no assumption made.
+966,TXN_9886809,Discount Applied,,Discount status is missing; no assumption made.
+969,TXN_3542322,Discount Applied,,Discount status is missing; no assumption made.
+970,TXN_2333809,Discount Applied,,Discount status is missing; no assumption made.
+976,TXN_2268300,Discount Applied,,Discount status is missing; no assumption made.
+980,TXN_1751972,Discount Applied,,Discount status is missing; no assumption made.
+986,TXN_5729727,Discount Applied,,Discount status is missing; no assumption made.
+988,TXN_5436711,Discount Applied,,Discount status is missing; no assumption made.
+990,TXN_5911077,Discount Applied,,Discount status is missing; no assumption made.
+994,TXN_9824819,Discount Applied,,Discount status is missing; no assumption made.
+1010,TXN_4127022,Discount Applied,,Discount status is missing; no assumption made.
+1016,TXN_5640166,Discount Applied,,Discount status is missing; no assumption made.
+1019,TXN_6042486,Discount Applied,,Discount status is missing; no assumption made.
+1023,TXN_2491119,Discount Applied,,Discount status is missing; no assumption made.
+1033,TXN_6958189,Discount Applied,,Discount status is missing; no assumption made.
+1036,TXN_6945785,Discount Applied,,Discount status is missing; no assumption made.
+1040,TXN_7072705,Discount Applied,,Discount status is missing; no assumption made.
+1043,TXN_2034416,Discount Applied,,Discount status is missing; no assumption made.
+1051,TXN_5286503,Discount Applied,,Discount status is missing; no assumption made.
+1052,TXN_8384526,Discount Applied,,Discount status is missing; no assumption made.
+1053,TXN_6286090,Discount Applied,,Discount status is missing; no assumption made.
+1056,TXN_3462274,Discount Applied,,Discount status is missing; no assumption made.
+1057,TXN_9436438,Discount Applied,,Discount status is missing; no assumption made.
+1059,TXN_9193468,Discount Applied,,Discount status is missing; no assumption made.
+1068,TXN_6166650,Discount Applied,,Discount status is missing; no assumption made.
+1071,TXN_5383030,Discount Applied,,Discount status is missing; no assumption made.
+1075,TXN_6651845,Discount Applied,,Discount status is missing; no assumption made.
+1077,TXN_3583047,Discount Applied,,Discount status is missing; no assumption made.
+1078,TXN_2854592,Discount Applied,,Discount status is missing; no assumption made.
+1086,TXN_7994928,Discount Applied,,Discount status is missing; no assumption made.
+1090,TXN_3039282,Discount Applied,,Discount status is missing; no assumption made.
+1092,TXN_9135800,Discount Applied,,Discount status is missing; no assumption made.
+1093,TXN_3237146,Discount Applied,,Discount status is missing; no assumption made.
+1095,TXN_2191709,Discount Applied,,Discount status is missing; no assumption made.
+1103,TXN_1891751,Discount Applied,,Discount status is missing; no assumption made.
+1106,TXN_6913318,Discount Applied,,Discount status is missing; no assumption made.
+1108,TXN_7415962,Discount Applied,,Discount status is missing; no assumption made.
+1114,TXN_7930358,Discount Applied,,Discount status is missing; no assumption made.
+1117,TXN_8596537,Discount Applied,,Discount status is missing; no assumption made.
+1124,TXN_4855074,Discount Applied,,Discount status is missing; no assumption made.
+1125,TXN_4991549,Discount Applied,,Discount status is missing; no assumption made.
+1146,TXN_1454623,Discount Applied,,Discount status is missing; no assumption made.
+1148,TXN_2559805,Discount Applied,,Discount status is missing; no assumption made.
+1150,TXN_2981195,Discount Applied,,Discount status is missing; no assumption made.
+1174,TXN_6272115,Discount Applied,,Discount status is missing; no assumption made.
+1182,TXN_6008029,Discount Applied,,Discount status is missing; no assumption made.
+1190,TXN_4104490,Discount Applied,,Discount status is missing; no assumption made.
+1193,TXN_6755892,Discount Applied,,Discount status is missing; no assumption made.
+1207,TXN_9803037,Discount Applied,,Discount status is missing; no assumption made.
+1210,TXN_8138512,Discount Applied,,Discount status is missing; no assumption made.
+1211,TXN_6832570,Discount Applied,,Discount status is missing; no assumption made.
+1229,TXN_2628782,Discount Applied,,Discount status is missing; no assumption made.
+1232,TXN_2980115,Discount Applied,,Discount status is missing; no assumption made.
+1249,TXN_1554999,Discount Applied,,Discount status is missing; no assumption made.
+1253,TXN_1588264,Discount Applied,,Discount status is missing; no assumption made.
+1260,TXN_4620109,Discount Applied,,Discount status is missing; no assumption made.
+1262,TXN_7939862,Discount Applied,,Discount status is missing; no assumption made.
+1263,TXN_3078237,Discount Applied,,Discount status is missing; no assumption made.
+1267,TXN_1136063,Discount Applied,,Discount status is missing; no assumption made.
+1270,TXN_4104379,Discount Applied,,Discount status is missing; no assumption made.
+1282,TXN_3593726,Discount Applied,,Discount status is missing; no assumption made.
+1289,TXN_4174294,Discount Applied,,Discount status is missing; no assumption made.
+1307,TXN_2658027,Discount Applied,,Discount status is missing; no assumption made.
+1309,TXN_7537606,Discount Applied,,Discount status is missing; no assumption made.
+1314,TXN_2040775,Discount Applied,,Discount status is missing; no assumption made.
+1315,TXN_1067952,Discount Applied,,Discount status is missing; no assumption made.
+1316,TXN_6670323,Discount Applied,,Discount status is missing; no assumption made.
+1318,TXN_7290610,Discount Applied,,Discount status is missing; no assumption made.
+1322,TXN_2412612,Discount Applied,,Discount status is missing; no assumption made.
+1330,TXN_9526508,Discount Applied,,Discount status is missing; no assumption made.
+1331,TXN_2037140,Discount Applied,,Discount status is missing; no assumption made.
+1334,TXN_2024017,Discount Applied,,Discount status is missing; no assumption made.
+1339,TXN_6833938,Discount Applied,,Discount status is missing; no assumption made.
+1343,TXN_5888362,Discount Applied,,Discount status is missing; no assumption made.
+1348,TXN_7800320,Discount Applied,,Discount status is missing; no assumption made.
+1352,TXN_5274936,Discount Applied,,Discount status is missing; no assumption made.
+1354,TXN_7450147,Discount Applied,,Discount status is missing; no assumption made.
+1355,TXN_1364716,Discount Applied,,Discount status is missing; no assumption made.
+1360,TXN_4326793,Discount Applied,,Discount status is missing; no assumption made.
+1365,TXN_2778244,Discount Applied,,Discount status is missing; no assumption made.
+1376,TXN_3430171,Discount Applied,,Discount status is missing; no assumption made.
+1377,TXN_2109427,Discount Applied,,Discount status is missing; no assumption made.
+1383,TXN_3389580,Discount Applied,,Discount status is missing; no assumption made.
+1385,TXN_6994602,Discount Applied,,Discount status is missing; no assumption made.
+1386,TXN_7057090,Discount Applied,,Discount status is missing; no assumption made.
+1391,TXN_4411973,Discount Applied,,Discount status is missing; no assumption made.
+1394,TXN_6173170,Discount Applied,,Discount status is missing; no assumption made.
+1399,TXN_5154967,Discount Applied,,Discount status is missing; no assumption made.
+1403,TXN_1500499,Discount Applied,,Discount status is missing; no assumption made.
+1404,TXN_9841859,Discount Applied,,Discount status is missing; no assumption made.
+1406,TXN_4097619,Discount Applied,,Discount status is missing; no assumption made.
+1409,TXN_1720065,Discount Applied,,Discount status is missing; no assumption made.
+1412,TXN_6504381,Discount Applied,,Discount status is missing; no assumption made.
+1416,TXN_4205677,Discount Applied,,Discount status is missing; no assumption made.
+1420,TXN_5461557,Discount Applied,,Discount status is missing; no assumption made.
+1423,TXN_3538562,Discount Applied,,Discount status is missing; no assumption made.
+1430,TXN_8079981,Discount Applied,,Discount status is missing; no assumption made.
+1432,TXN_8851685,Discount Applied,,Discount status is missing; no assumption made.
+1433,TXN_3998851,Discount Applied,,Discount status is missing; no assumption made.
+1434,TXN_1508906,Discount Applied,,Discount status is missing; no assumption made.
+1436,TXN_7055245,Discount Applied,,Discount status is missing; no assumption made.
+1438,TXN_8126338,Discount Applied,,Discount status is missing; no assumption made.
+1442,TXN_2476470,Discount Applied,,Discount status is missing; no assumption made.
+1443,TXN_5908394,Discount Applied,,Discount status is missing; no assumption made.
+1445,TXN_1402732,Discount Applied,,Discount status is missing; no assumption made.
+1448,TXN_8807699,Discount Applied,,Discount status is missing; no assumption made.
+1449,TXN_9090669,Discount Applied,,Discount status is missing; no assumption made.
+1453,TXN_2973915,Discount Applied,,Discount status is missing; no assumption made.
+1454,TXN_7292357,Discount Applied,,Discount status is missing; no assumption made.
+1461,TXN_2977219,Discount Applied,,Discount status is missing; no assumption made.
+1465,TXN_9513199,Discount Applied,,Discount status is missing; no assumption made.
+1469,TXN_1424190,Discount Applied,,Discount status is missing; no assumption made.
+1480,TXN_5604136,Discount Applied,,Discount status is missing; no assumption made.
+1489,TXN_2903915,Discount Applied,,Discount status is missing; no assumption made.
+1500,TXN_5462966,Discount Applied,,Discount status is missing; no assumption made.
+1504,TXN_3686476,Discount Applied,,Discount status is missing; no assumption made.
+1506,TXN_1810713,Discount Applied,,Discount status is missing; no assumption made.
+1510,TXN_2846357,Discount Applied,,Discount status is missing; no assumption made.
+1511,TXN_4580885,Discount Applied,,Discount status is missing; no assumption made.
+1512,TXN_1417342,Discount Applied,,Discount status is missing; no assumption made.
+1514,TXN_7671458,Discount Applied,,Discount status is missing; no assumption made.
+1516,TXN_7398113,Discount Applied,,Discount status is missing; no assumption made.
+1517,TXN_7567090,Discount Applied,,Discount status is missing; no assumption made.
+1522,TXN_5368270,Discount Applied,,Discount status is missing; no assumption made.
+1526,TXN_7369456,Discount Applied,,Discount status is missing; no assumption made.
+1528,TXN_1570073,Discount Applied,,Discount status is missing; no assumption made.
+1533,TXN_8469820,Discount Applied,,Discount status is missing; no assumption made.
+1540,TXN_5274015,Discount Applied,,Discount status is missing; no assumption made.
+1541,TXN_2274634,Discount Applied,,Discount status is missing; no assumption made.
+1547,TXN_4019322,Discount Applied,,Discount status is missing; no assumption made.
+1553,TXN_2928337,Discount Applied,,Discount status is missing; no assumption made.
+1554,TXN_3578062,Discount Applied,,Discount status is missing; no assumption made.
+1555,TXN_9465360,Discount Applied,,Discount status is missing; no assumption made.
+1556,TXN_8397239,Discount Applied,,Discount status is missing; no assumption made.
+1559,TXN_8563493,Discount Applied,,Discount status is missing; no assumption made.
+1560,TXN_4579894,Discount Applied,,Discount status is missing; no assumption made.
+1567,TXN_3761728,Discount Applied,,Discount status is missing; no assumption made.
+1570,TXN_6287913,Discount Applied,,Discount status is missing; no assumption made.
+1576,TXN_4071284,Discount Applied,,Discount status is missing; no assumption made.
+1580,TXN_6703209,Discount Applied,,Discount status is missing; no assumption made.
+1585,TXN_4766427,Discount Applied,,Discount status is missing; no assumption made.
+1586,TXN_5559217,Discount Applied,,Discount status is missing; no assumption made.
+1592,TXN_6672745,Discount Applied,,Discount status is missing; no assumption made.
+1595,TXN_1159270,Discount Applied,,Discount status is missing; no assumption made.
+1603,TXN_3400837,Discount Applied,,Discount status is missing; no assumption made.
+1608,TXN_7358561,Discount Applied,,Discount status is missing; no assumption made.
+1616,TXN_7109117,Discount Applied,,Discount status is missing; no assumption made.
+1617,TXN_8499996,Discount Applied,,Discount status is missing; no assumption made.
+1628,TXN_2405392,Discount Applied,,Discount status is missing; no assumption made.
+1629,TXN_1601213,Discount Applied,,Discount status is missing; no assumption made.
+1634,TXN_9197458,Discount Applied,,Discount status is missing; no assumption made.
+1639,TXN_3328476,Discount Applied,,Discount status is missing; no assumption made.
+1641,TXN_3066462,Discount Applied,,Discount status is missing; no assumption made.
+1643,TXN_9446573,Discount Applied,,Discount status is missing; no assumption made.
+1644,TXN_1993328,Discount Applied,,Discount status is missing; no assumption made.
+1647,TXN_4622456,Discount Applied,,Discount status is missing; no assumption made.
+1664,TXN_8539769,Discount Applied,,Discount status is missing; no assumption made.
+1669,TXN_4152502,Discount Applied,,Discount status is missing; no assumption made.
+1670,TXN_1944793,Discount Applied,,Discount status is missing; no assumption made.
+1674,TXN_2094833,Discount Applied,,Discount status is missing; no assumption made.
+1677,TXN_1037361,Discount Applied,,Discount status is missing; no assumption made.
+1678,TXN_4264908,Discount Applied,,Discount status is missing; no assumption made.
+1680,TXN_4305229,Discount Applied,,Discount status is missing; no assumption made.
+1682,TXN_7926610,Discount Applied,,Discount status is missing; no assumption made.
+1690,TXN_4668866,Discount Applied,,Discount status is missing; no assumption made.
+1698,TXN_2595489,Discount Applied,,Discount status is missing; no assumption made.
+1701,TXN_4549953,Discount Applied,,Discount status is missing; no assumption made.
+1707,TXN_7426288,Discount Applied,,Discount status is missing; no assumption made.
+1708,TXN_3008960,Discount Applied,,Discount status is missing; no assumption made.
+1710,TXN_6675919,Discount Applied,,Discount status is missing; no assumption made.
+1717,TXN_7630293,Discount Applied,,Discount status is missing; no assumption made.
+1719,TXN_8930345,Discount Applied,,Discount status is missing; no assumption made.
+1721,TXN_9307585,Discount Applied,,Discount status is missing; no assumption made.
+1727,TXN_7220720,Discount Applied,,Discount status is missing; no assumption made.
+1742,TXN_7827575,Discount Applied,,Discount status is missing; no assumption made.
+1748,TXN_2638861,Discount Applied,,Discount status is missing; no assumption made.
+1751,TXN_3117008,Discount Applied,,Discount status is missing; no assumption made.
+1752,TXN_7209563,Discount Applied,,Discount status is missing; no assumption made.
+1753,TXN_7076836,Discount Applied,,Discount status is missing; no assumption made.
+1756,TXN_3397866,Discount Applied,,Discount status is missing; no assumption made.
+1757,TXN_4911534,Discount Applied,,Discount status is missing; no assumption made.
+1759,TXN_7262105,Discount Applied,,Discount status is missing; no assumption made.
+1767,TXN_5409044,Discount Applied,,Discount status is missing; no assumption made.
+1774,TXN_3941478,Discount Applied,,Discount status is missing; no assumption made.
+1777,TXN_2544894,Discount Applied,,Discount status is missing; no assumption made.
+1782,TXN_2497116,Discount Applied,,Discount status is missing; no assumption made.
+1783,TXN_7052710,Discount Applied,,Discount status is missing; no assumption made.
+1792,TXN_8144556,Discount Applied,,Discount status is missing; no assumption made.
+1797,TXN_6665256,Discount Applied,,Discount status is missing; no assumption made.
+1801,TXN_3786202,Discount Applied,,Discount status is missing; no assumption made.
+1804,TXN_2548160,Discount Applied,,Discount status is missing; no assumption made.
+1806,TXN_2711545,Discount Applied,,Discount status is missing; no assumption made.
+1808,TXN_8972368,Discount Applied,,Discount status is missing; no assumption made.
+1809,TXN_8868606,Discount Applied,,Discount status is missing; no assumption made.
+1814,TXN_5125339,Discount Applied,,Discount status is missing; no assumption made.
+1817,TXN_7059211,Discount Applied,,Discount status is missing; no assumption made.
+1820,TXN_6478512,Discount Applied,,Discount status is missing; no assumption made.
+1823,TXN_5556274,Discount Applied,,Discount status is missing; no assumption made.
+1831,TXN_5168494,Discount Applied,,Discount status is missing; no assumption made.
+1833,TXN_1735062,Discount Applied,,Discount status is missing; no assumption made.
+1835,TXN_2126805,Discount Applied,,Discount status is missing; no assumption made.
+1836,TXN_4070828,Discount Applied,,Discount status is missing; no assumption made.
+1841,TXN_5957792,Discount Applied,,Discount status is missing; no assumption made.
+1847,TXN_5198129,Discount Applied,,Discount status is missing; no assumption made.
+1850,TXN_9921992,Discount Applied,,Discount status is missing; no assumption made.
+1852,TXN_8724862,Discount Applied,,Discount status is missing; no assumption made.
+1853,TXN_8317994,Discount Applied,,Discount status is missing; no assumption made.
+1859,TXN_7613889,Discount Applied,,Discount status is missing; no assumption made.
+1860,TXN_5342887,Discount Applied,,Discount status is missing; no assumption made.
+1861,TXN_6204604,Discount Applied,,Discount status is missing; no assumption made.
+1864,TXN_1816609,Discount Applied,,Discount status is missing; no assumption made.
+1865,TXN_8084609,Discount Applied,,Discount status is missing; no assumption made.
+1877,TXN_4196275,Discount Applied,,Discount status is missing; no assumption made.
+1883,TXN_2257949,Discount Applied,,Discount status is missing; no assumption made.
+1893,TXN_6769764,Discount Applied,,Discount status is missing; no assumption made.
+1900,TXN_6617295,Discount Applied,,Discount status is missing; no assumption made.
+1903,TXN_7047511,Discount Applied,,Discount status is missing; no assumption made.
+1904,TXN_1523136,Discount Applied,,Discount status is missing; no assumption made.
+1907,TXN_3144386,Discount Applied,,Discount status is missing; no assumption made.
+1913,TXN_8454493,Discount Applied,,Discount status is missing; no assumption made.
+1916,TXN_3353100,Discount Applied,,Discount status is missing; no assumption made.
+1918,TXN_4010935,Discount Applied,,Discount status is missing; no assumption made.
+1927,TXN_1121284,Discount Applied,,Discount status is missing; no assumption made.
+1929,TXN_4078684,Discount Applied,,Discount status is missing; no assumption made.
+1933,TXN_5188432,Discount Applied,,Discount status is missing; no assumption made.
+1938,TXN_4354441,Discount Applied,,Discount status is missing; no assumption made.
+1939,TXN_4932138,Discount Applied,,Discount status is missing; no assumption made.
+1945,TXN_6635499,Discount Applied,,Discount status is missing; no assumption made.
+1947,TXN_6772100,Discount Applied,,Discount status is missing; no assumption made.
+1952,TXN_5416728,Discount Applied,,Discount status is missing; no assumption made.
+1961,TXN_1470306,Discount Applied,,Discount status is missing; no assumption made.
+1968,TXN_9107873,Discount Applied,,Discount status is missing; no assumption made.
+1969,TXN_8465106,Discount Applied,,Discount status is missing; no assumption made.
+1974,TXN_9554328,Discount Applied,,Discount status is missing; no assumption made.
+1977,TXN_8601554,Discount Applied,,Discount status is missing; no assumption made.
+1986,TXN_2649049,Discount Applied,,Discount status is missing; no assumption made.
+1992,TXN_4722248,Discount Applied,,Discount status is missing; no assumption made.
+1996,TXN_6650997,Discount Applied,,Discount status is missing; no assumption made.
+1998,TXN_2503148,Discount Applied,,Discount status is missing; no assumption made.
+2000,TXN_9410184,Discount Applied,,Discount status is missing; no assumption made.
+2005,TXN_3863185,Discount Applied,,Discount status is missing; no assumption made.
+2006,TXN_2197961,Discount Applied,,Discount status is missing; no assumption made.
+2011,TXN_2629618,Discount Applied,,Discount status is missing; no assumption made.
+2013,TXN_4052832,Discount Applied,,Discount status is missing; no assumption made.
+2021,TXN_8873692,Discount Applied,,Discount status is missing; no assumption made.
+2022,TXN_9759838,Discount Applied,,Discount status is missing; no assumption made.
+2024,TXN_2493950,Discount Applied,,Discount status is missing; no assumption made.
+2026,TXN_4177902,Discount Applied,,Discount status is missing; no assumption made.
+2035,TXN_5640743,Discount Applied,,Discount status is missing; no assumption made.
+2037,TXN_6160838,Discount Applied,,Discount status is missing; no assumption made.
+2038,TXN_5432881,Discount Applied,,Discount status is missing; no assumption made.
+2040,TXN_5453293,Discount Applied,,Discount status is missing; no assumption made.
+2052,TXN_1906395,Discount Applied,,Discount status is missing; no assumption made.
+2055,TXN_6091567,Discount Applied,,Discount status is missing; no assumption made.
+2056,TXN_5319453,Discount Applied,,Discount status is missing; no assumption made.
+2060,TXN_8451062,Discount Applied,,Discount status is missing; no assumption made.
+2061,TXN_6674441,Discount Applied,,Discount status is missing; no assumption made.
+2066,TXN_8342451,Discount Applied,,Discount status is missing; no assumption made.
+2067,TXN_2310142,Discount Applied,,Discount status is missing; no assumption made.
+2078,TXN_3470294,Discount Applied,,Discount status is missing; no assumption made.
+2085,TXN_8534682,Discount Applied,,Discount status is missing; no assumption made.
+2088,TXN_4113534,Discount Applied,,Discount status is missing; no assumption made.
+2089,TXN_3392001,Discount Applied,,Discount status is missing; no assumption made.
+2093,TXN_4137196,Discount Applied,,Discount status is missing; no assumption made.
+2096,TXN_4101004,Discount Applied,,Discount status is missing; no assumption made.
+2103,TXN_4337013,Discount Applied,,Discount status is missing; no assumption made.
+2121,TXN_5911408,Discount Applied,,Discount status is missing; no assumption made.
+2124,TXN_7952721,Discount Applied,,Discount status is missing; no assumption made.
+2127,TXN_9326492,Discount Applied,,Discount status is missing; no assumption made.
+2128,TXN_5575454,Discount Applied,,Discount status is missing; no assumption made.
+2129,TXN_9859464,Discount Applied,,Discount status is missing; no assumption made.
+2138,TXN_4709866,Discount Applied,,Discount status is missing; no assumption made.
+2140,TXN_5390741,Discount Applied,,Discount status is missing; no assumption made.
+2146,TXN_4463587,Discount Applied,,Discount status is missing; no assumption made.
+2151,TXN_4736361,Discount Applied,,Discount status is missing; no assumption made.
+2152,TXN_2358454,Discount Applied,,Discount status is missing; no assumption made.
+2154,TXN_3991270,Discount Applied,,Discount status is missing; no assumption made.
+2156,TXN_3348818,Discount Applied,,Discount status is missing; no assumption made.
+2158,TXN_1255672,Discount Applied,,Discount status is missing; no assumption made.
+2166,TXN_3074920,Discount Applied,,Discount status is missing; no assumption made.
+2168,TXN_3767676,Discount Applied,,Discount status is missing; no assumption made.
+2180,TXN_2706076,Discount Applied,,Discount status is missing; no assumption made.
+2183,TXN_1052055,Discount Applied,,Discount status is missing; no assumption made.
+2192,TXN_3520022,Discount Applied,,Discount status is missing; no assumption made.
+2194,TXN_8867311,Discount Applied,,Discount status is missing; no assumption made.
+2199,TXN_6085085,Discount Applied,,Discount status is missing; no assumption made.
+2203,TXN_3802196,Discount Applied,,Discount status is missing; no assumption made.
+2207,TXN_9528580,Discount Applied,,Discount status is missing; no assumption made.
+2213,TXN_4045313,Discount Applied,,Discount status is missing; no assumption made.
+2228,TXN_3305413,Discount Applied,,Discount status is missing; no assumption made.
+2229,TXN_5705170,Discount Applied,,Discount status is missing; no assumption made.
+2234,TXN_7226659,Discount Applied,,Discount status is missing; no assumption made.
+2235,TXN_2350093,Discount Applied,,Discount status is missing; no assumption made.
+2239,TXN_4764040,Discount Applied,,Discount status is missing; no assumption made.
+2246,TXN_2759268,Discount Applied,,Discount status is missing; no assumption made.
+2261,TXN_5713549,Discount Applied,,Discount status is missing; no assumption made.
+2267,TXN_3383856,Discount Applied,,Discount status is missing; no assumption made.
+2268,TXN_8889602,Discount Applied,,Discount status is missing; no assumption made.
+2275,TXN_7046768,Discount Applied,,Discount status is missing; no assumption made.
+2282,TXN_5776194,Discount Applied,,Discount status is missing; no assumption made.
+2290,TXN_2162189,Discount Applied,,Discount status is missing; no assumption made.
+2292,TXN_2407296,Discount Applied,,Discount status is missing; no assumption made.
+2296,TXN_1878835,Discount Applied,,Discount status is missing; no assumption made.
+2297,TXN_6697627,Discount Applied,,Discount status is missing; no assumption made.
+2299,TXN_8367241,Discount Applied,,Discount status is missing; no assumption made.
+2303,TXN_9664966,Discount Applied,,Discount status is missing; no assumption made.
+2306,TXN_5017763,Discount Applied,,Discount status is missing; no assumption made.
+2307,TXN_4055029,Discount Applied,,Discount status is missing; no assumption made.
+2308,TXN_9802459,Discount Applied,,Discount status is missing; no assumption made.
+2309,TXN_7470181,Discount Applied,,Discount status is missing; no assumption made.
+2312,TXN_3905319,Discount Applied,,Discount status is missing; no assumption made.
+2314,TXN_3845376,Discount Applied,,Discount status is missing; no assumption made.
+2332,TXN_1760669,Discount Applied,,Discount status is missing; no assumption made.
+2333,TXN_6526853,Discount Applied,,Discount status is missing; no assumption made.
+2334,TXN_2770403,Discount Applied,,Discount status is missing; no assumption made.
+2335,TXN_4254449,Discount Applied,,Discount status is missing; no assumption made.
+2339,TXN_5357461,Discount Applied,,Discount status is missing; no assumption made.
+2342,TXN_6472177,Discount Applied,,Discount status is missing; no assumption made.
+2350,TXN_9906136,Discount Applied,,Discount status is missing; no assumption made.
+2356,TXN_2114683,Discount Applied,,Discount status is missing; no assumption made.
+2359,TXN_5447684,Discount Applied,,Discount status is missing; no assumption made.
+2361,TXN_5028054,Discount Applied,,Discount status is missing; no assumption made.
+2363,TXN_4229198,Discount Applied,,Discount status is missing; no assumption made.
+2364,TXN_7768326,Discount Applied,,Discount status is missing; no assumption made.
+2367,TXN_3746455,Discount Applied,,Discount status is missing; no assumption made.
+2378,TXN_4795788,Discount Applied,,Discount status is missing; no assumption made.
+2388,TXN_6280619,Discount Applied,,Discount status is missing; no assumption made.
+2389,TXN_3979664,Discount Applied,,Discount status is missing; no assumption made.
+2397,TXN_5230207,Discount Applied,,Discount status is missing; no assumption made.
+2400,TXN_6218354,Discount Applied,,Discount status is missing; no assumption made.
+2403,TXN_9833462,Discount Applied,,Discount status is missing; no assumption made.
+2410,TXN_5204099,Discount Applied,,Discount status is missing; no assumption made.
+2421,TXN_4066461,Discount Applied,,Discount status is missing; no assumption made.
+2424,TXN_2247652,Discount Applied,,Discount status is missing; no assumption made.
+2427,TXN_4340216,Discount Applied,,Discount status is missing; no assumption made.
+2440,TXN_1109530,Discount Applied,,Discount status is missing; no assumption made.
+2445,TXN_9928047,Discount Applied,,Discount status is missing; no assumption made.
+2449,TXN_2133243,Discount Applied,,Discount status is missing; no assumption made.
+2451,TXN_8085929,Discount Applied,,Discount status is missing; no assumption made.
+2452,TXN_1688725,Discount Applied,,Discount status is missing; no assumption made.
+2461,TXN_7091544,Discount Applied,,Discount status is missing; no assumption made.
+2467,TXN_9274125,Discount Applied,,Discount status is missing; no assumption made.
+2473,TXN_4096818,Discount Applied,,Discount status is missing; no assumption made.
+2482,TXN_9708706,Discount Applied,,Discount status is missing; no assumption made.
+2484,TXN_2468073,Discount Applied,,Discount status is missing; no assumption made.
+2487,TXN_1867414,Discount Applied,,Discount status is missing; no assumption made.
+2490,TXN_1386354,Discount Applied,,Discount status is missing; no assumption made.
+2493,TXN_6069060,Discount Applied,,Discount status is missing; no assumption made.
+2511,TXN_1485679,Discount Applied,,Discount status is missing; no assumption made.
+2518,TXN_6061537,Discount Applied,,Discount status is missing; no assumption made.
+2522,TXN_6007321,Discount Applied,,Discount status is missing; no assumption made.
+2526,TXN_8986988,Discount Applied,,Discount status is missing; no assumption made.
+2527,TXN_6867504,Discount Applied,,Discount status is missing; no assumption made.
+2529,TXN_8552750,Discount Applied,,Discount status is missing; no assumption made.
+2532,TXN_8895945,Discount Applied,,Discount status is missing; no assumption made.
+2536,TXN_7647857,Discount Applied,,Discount status is missing; no assumption made.
+2541,TXN_3529026,Discount Applied,,Discount status is missing; no assumption made.
+2549,TXN_8352882,Discount Applied,,Discount status is missing; no assumption made.
+2550,TXN_6813365,Discount Applied,,Discount status is missing; no assumption made.
+2557,TXN_5732369,Discount Applied,,Discount status is missing; no assumption made.
+2562,TXN_7479500,Discount Applied,,Discount status is missing; no assumption made.
+2563,TXN_5332823,Discount Applied,,Discount status is missing; no assumption made.
+2565,TXN_6811287,Discount Applied,,Discount status is missing; no assumption made.
+2566,TXN_9193168,Discount Applied,,Discount status is missing; no assumption made.
+2572,TXN_2526754,Discount Applied,,Discount status is missing; no assumption made.
+2574,TXN_8060023,Discount Applied,,Discount status is missing; no assumption made.
+2577,TXN_4253908,Discount Applied,,Discount status is missing; no assumption made.
+2580,TXN_2897501,Discount Applied,,Discount status is missing; no assumption made.
+2586,TXN_6370807,Discount Applied,,Discount status is missing; no assumption made.
+2593,TXN_9890162,Discount Applied,,Discount status is missing; no assumption made.
+2594,TXN_6992337,Discount Applied,,Discount status is missing; no assumption made.
+2598,TXN_9030976,Discount Applied,,Discount status is missing; no assumption made.
+2608,TXN_4322678,Discount Applied,,Discount status is missing; no assumption made.
+2610,TXN_8545189,Discount Applied,,Discount status is missing; no assumption made.
+2613,TXN_4094235,Discount Applied,,Discount status is missing; no assumption made.
+2619,TXN_3553188,Discount Applied,,Discount status is missing; no assumption made.
+2620,TXN_2744308,Discount Applied,,Discount status is missing; no assumption made.
+2624,TXN_9725696,Discount Applied,,Discount status is missing; no assumption made.
+2625,TXN_5511681,Discount Applied,,Discount status is missing; no assumption made.
+2632,TXN_4470966,Discount Applied,,Discount status is missing; no assumption made.
+2638,TXN_2682118,Discount Applied,,Discount status is missing; no assumption made.
+2642,TXN_9583045,Discount Applied,,Discount status is missing; no assumption made.
+2644,TXN_8819927,Discount Applied,,Discount status is missing; no assumption made.
+2647,TXN_9987606,Discount Applied,,Discount status is missing; no assumption made.
+2648,TXN_6529554,Discount Applied,,Discount status is missing; no assumption made.
+2651,TXN_3465596,Discount Applied,,Discount status is missing; no assumption made.
+2653,TXN_7442845,Discount Applied,,Discount status is missing; no assumption made.
+2663,TXN_3195986,Discount Applied,,Discount status is missing; no assumption made.
+2664,TXN_7005079,Discount Applied,,Discount status is missing; no assumption made.
+2665,TXN_2945640,Discount Applied,,Discount status is missing; no assumption made.
+2667,TXN_9933863,Discount Applied,,Discount status is missing; no assumption made.
+2669,TXN_1787899,Discount Applied,,Discount status is missing; no assumption made.
+2675,TXN_7365062,Discount Applied,,Discount status is missing; no assumption made.
+2678,TXN_1792539,Discount Applied,,Discount status is missing; no assumption made.
+2680,TXN_7416679,Discount Applied,,Discount status is missing; no assumption made.
+2682,TXN_6874659,Discount Applied,,Discount status is missing; no assumption made.
+2683,TXN_8587676,Discount Applied,,Discount status is missing; no assumption made.
+2685,TXN_9839008,Discount Applied,,Discount status is missing; no assumption made.
+2691,TXN_5707583,Discount Applied,,Discount status is missing; no assumption made.
+2692,TXN_9181311,Discount Applied,,Discount status is missing; no assumption made.
+2695,TXN_1867838,Discount Applied,,Discount status is missing; no assumption made.
+2701,TXN_2165872,Discount Applied,,Discount status is missing; no assumption made.
+2703,TXN_1678794,Discount Applied,,Discount status is missing; no assumption made.
+2710,TXN_1402980,Discount Applied,,Discount status is missing; no assumption made.
+2712,TXN_5182585,Discount Applied,,Discount status is missing; no assumption made.
+2713,TXN_3145966,Discount Applied,,Discount status is missing; no assumption made.
+2723,TXN_6728790,Discount Applied,,Discount status is missing; no assumption made.
+2729,TXN_5786681,Discount Applied,,Discount status is missing; no assumption made.
+2733,TXN_4837071,Discount Applied,,Discount status is missing; no assumption made.
+2738,TXN_6978318,Discount Applied,,Discount status is missing; no assumption made.
+2741,TXN_2790666,Discount Applied,,Discount status is missing; no assumption made.
+2745,TXN_8999317,Discount Applied,,Discount status is missing; no assumption made.
+2746,TXN_4467549,Discount Applied,,Discount status is missing; no assumption made.
+2749,TXN_4611076,Discount Applied,,Discount status is missing; no assumption made.
+2755,TXN_8782937,Discount Applied,,Discount status is missing; no assumption made.
+2759,TXN_9482626,Discount Applied,,Discount status is missing; no assumption made.
+2760,TXN_8859371,Discount Applied,,Discount status is missing; no assumption made.
+2768,TXN_9292005,Discount Applied,,Discount status is missing; no assumption made.
+2777,TXN_2330349,Discount Applied,,Discount status is missing; no assumption made.
+2782,TXN_4440868,Discount Applied,,Discount status is missing; no assumption made.
+2786,TXN_3786278,Discount Applied,,Discount status is missing; no assumption made.
+2790,TXN_1648478,Discount Applied,,Discount status is missing; no assumption made.
+2794,TXN_8846540,Discount Applied,,Discount status is missing; no assumption made.
+2797,TXN_9347535,Discount Applied,,Discount status is missing; no assumption made.
+2807,TXN_2186837,Discount Applied,,Discount status is missing; no assumption made.
+2810,TXN_1554236,Discount Applied,,Discount status is missing; no assumption made.
+2813,TXN_3023306,Discount Applied,,Discount status is missing; no assumption made.
+2814,TXN_1828849,Discount Applied,,Discount status is missing; no assumption made.
+2817,TXN_1352935,Discount Applied,,Discount status is missing; no assumption made.
+2819,TXN_1953959,Discount Applied,,Discount status is missing; no assumption made.
+2834,TXN_2169715,Discount Applied,,Discount status is missing; no assumption made.
+2842,TXN_8074964,Discount Applied,,Discount status is missing; no assumption made.
+2845,TXN_6408520,Discount Applied,,Discount status is missing; no assumption made.
+2846,TXN_6985189,Discount Applied,,Discount status is missing; no assumption made.
+2849,TXN_4693976,Discount Applied,,Discount status is missing; no assumption made.
+2850,TXN_9471212,Discount Applied,,Discount status is missing; no assumption made.
+2851,TXN_3726727,Discount Applied,,Discount status is missing; no assumption made.
+2852,TXN_4326254,Discount Applied,,Discount status is missing; no assumption made.
+2862,TXN_8652542,Discount Applied,,Discount status is missing; no assumption made.
+2875,TXN_9429172,Discount Applied,,Discount status is missing; no assumption made.
+2876,TXN_1011009,Discount Applied,,Discount status is missing; no assumption made.
+2889,TXN_7766886,Discount Applied,,Discount status is missing; no assumption made.
+2890,TXN_7801693,Discount Applied,,Discount status is missing; no assumption made.
+2898,TXN_1058827,Discount Applied,,Discount status is missing; no assumption made.
+2902,TXN_9077813,Discount Applied,,Discount status is missing; no assumption made.
+2908,TXN_1248595,Discount Applied,,Discount status is missing; no assumption made.
+2915,TXN_4914080,Discount Applied,,Discount status is missing; no assumption made.
+2920,TXN_5623527,Discount Applied,,Discount status is missing; no assumption made.
+2928,TXN_6819106,Discount Applied,,Discount status is missing; no assumption made.
+2939,TXN_2791599,Discount Applied,,Discount status is missing; no assumption made.
+2940,TXN_9961286,Discount Applied,,Discount status is missing; no assumption made.
+2942,TXN_4625153,Discount Applied,,Discount status is missing; no assumption made.
+2945,TXN_8295313,Discount Applied,,Discount status is missing; no assumption made.
+2947,TXN_9461714,Discount Applied,,Discount status is missing; no assumption made.
+2954,TXN_6888203,Discount Applied,,Discount status is missing; no assumption made.
+2959,TXN_9121849,Discount Applied,,Discount status is missing; no assumption made.
+2960,TXN_1368893,Discount Applied,,Discount status is missing; no assumption made.
+2962,TXN_7468703,Discount Applied,,Discount status is missing; no assumption made.
+2965,TXN_5406455,Discount Applied,,Discount status is missing; no assumption made.
+2966,TXN_1097807,Discount Applied,,Discount status is missing; no assumption made.
+2968,TXN_1137733,Discount Applied,,Discount status is missing; no assumption made.
+2970,TXN_5714331,Discount Applied,,Discount status is missing; no assumption made.
+2971,TXN_9359341,Discount Applied,,Discount status is missing; no assumption made.
+2973,TXN_7388626,Discount Applied,,Discount status is missing; no assumption made.
+2983,TXN_8265872,Discount Applied,,Discount status is missing; no assumption made.
+2985,TXN_3326133,Discount Applied,,Discount status is missing; no assumption made.
+2991,TXN_3817422,Discount Applied,,Discount status is missing; no assumption made.
+2992,TXN_3239776,Discount Applied,,Discount status is missing; no assumption made.
+2995,TXN_4509159,Discount Applied,,Discount status is missing; no assumption made.
+2999,TXN_9871058,Discount Applied,,Discount status is missing; no assumption made.
+3002,TXN_3143678,Discount Applied,,Discount status is missing; no assumption made.
+3003,TXN_1648431,Discount Applied,,Discount status is missing; no assumption made.
+3006,TXN_4175400,Discount Applied,,Discount status is missing; no assumption made.
+3012,TXN_7490750,Discount Applied,,Discount status is missing; no assumption made.
+3014,TXN_4206283,Discount Applied,,Discount status is missing; no assumption made.
+3015,TXN_2306159,Discount Applied,,Discount status is missing; no assumption made.
+3016,TXN_7118313,Discount Applied,,Discount status is missing; no assumption made.
+3019,TXN_2318866,Discount Applied,,Discount status is missing; no assumption made.
+3027,TXN_5609231,Discount Applied,,Discount status is missing; no assumption made.
+3029,TXN_2363307,Discount Applied,,Discount status is missing; no assumption made.
+3036,TXN_7869577,Discount Applied,,Discount status is missing; no assumption made.
+3038,TXN_6363998,Discount Applied,,Discount status is missing; no assumption made.
+3044,TXN_8978503,Discount Applied,,Discount status is missing; no assumption made.
+3051,TXN_6216582,Discount Applied,,Discount status is missing; no assumption made.
+3054,TXN_5749394,Discount Applied,,Discount status is missing; no assumption made.
+3067,TXN_3096939,Discount Applied,,Discount status is missing; no assumption made.
+3069,TXN_7231219,Discount Applied,,Discount status is missing; no assumption made.
+3071,TXN_1632600,Discount Applied,,Discount status is missing; no assumption made.
+3072,TXN_8318012,Discount Applied,,Discount status is missing; no assumption made.
+3073,TXN_4338669,Discount Applied,,Discount status is missing; no assumption made.
+3079,TXN_6229907,Discount Applied,,Discount status is missing; no assumption made.
+3080,TXN_2937316,Discount Applied,,Discount status is missing; no assumption made.
+3081,TXN_6990266,Discount Applied,,Discount status is missing; no assumption made.
+3084,TXN_9144380,Discount Applied,,Discount status is missing; no assumption made.
+3089,TXN_8384592,Discount Applied,,Discount status is missing; no assumption made.
+3090,TXN_6472587,Discount Applied,,Discount status is missing; no assumption made.
+3094,TXN_5191896,Discount Applied,,Discount status is missing; no assumption made.
+3105,TXN_6591845,Discount Applied,,Discount status is missing; no assumption made.
+3106,TXN_9844834,Discount Applied,,Discount status is missing; no assumption made.
+3113,TXN_6983336,Discount Applied,,Discount status is missing; no assumption made.
+3121,TXN_4889785,Discount Applied,,Discount status is missing; no assumption made.
+3124,TXN_6851605,Discount Applied,,Discount status is missing; no assumption made.
+3125,TXN_2218710,Discount Applied,,Discount status is missing; no assumption made.
+3129,TXN_6706419,Discount Applied,,Discount status is missing; no assumption made.
+3134,TXN_7047770,Discount Applied,,Discount status is missing; no assumption made.
+3139,TXN_9782665,Discount Applied,,Discount status is missing; no assumption made.
+3141,TXN_5066981,Discount Applied,,Discount status is missing; no assumption made.
+3145,TXN_7399177,Discount Applied,,Discount status is missing; no assumption made.
+3149,TXN_3599392,Discount Applied,,Discount status is missing; no assumption made.
+3152,TXN_7367712,Discount Applied,,Discount status is missing; no assumption made.
+3159,TXN_7449720,Discount Applied,,Discount status is missing; no assumption made.
+3167,TXN_9175002,Discount Applied,,Discount status is missing; no assumption made.
+3168,TXN_2514101,Discount Applied,,Discount status is missing; no assumption made.
+3169,TXN_9078945,Discount Applied,,Discount status is missing; no assumption made.
+3170,TXN_5140651,Discount Applied,,Discount status is missing; no assumption made.
+3175,TXN_1306160,Discount Applied,,Discount status is missing; no assumption made.
+3185,TXN_6931967,Discount Applied,,Discount status is missing; no assumption made.
+3188,TXN_3318762,Discount Applied,,Discount status is missing; no assumption made.
+3190,TXN_1967261,Discount Applied,,Discount status is missing; no assumption made.
+3192,TXN_8517750,Discount Applied,,Discount status is missing; no assumption made.
+3196,TXN_8906166,Discount Applied,,Discount status is missing; no assumption made.
+3197,TXN_2888414,Discount Applied,,Discount status is missing; no assumption made.
+3199,TXN_4560874,Discount Applied,,Discount status is missing; no assumption made.
+3207,TXN_4607137,Discount Applied,,Discount status is missing; no assumption made.
+3210,TXN_9737452,Discount Applied,,Discount status is missing; no assumption made.
+3211,TXN_4978602,Discount Applied,,Discount status is missing; no assumption made.
+3212,TXN_8364308,Discount Applied,,Discount status is missing; no assumption made.
+3213,TXN_7124341,Discount Applied,,Discount status is missing; no assumption made.
+3218,TXN_3358404,Discount Applied,,Discount status is missing; no assumption made.
+3220,TXN_3195690,Discount Applied,,Discount status is missing; no assumption made.
+3221,TXN_1590246,Discount Applied,,Discount status is missing; no assumption made.
+3245,TXN_4651387,Discount Applied,,Discount status is missing; no assumption made.
+3249,TXN_8561011,Discount Applied,,Discount status is missing; no assumption made.
+3250,TXN_1233462,Discount Applied,,Discount status is missing; no assumption made.
+3252,TXN_9835282,Discount Applied,,Discount status is missing; no assumption made.
+3260,TXN_2161360,Discount Applied,,Discount status is missing; no assumption made.
+3264,TXN_3660891,Discount Applied,,Discount status is missing; no assumption made.
+3265,TXN_1708669,Discount Applied,,Discount status is missing; no assumption made.
+3268,TXN_9780350,Discount Applied,,Discount status is missing; no assumption made.
+3271,TXN_7031765,Discount Applied,,Discount status is missing; no assumption made.
+3278,TXN_1786667,Discount Applied,,Discount status is missing; no assumption made.
+3284,TXN_4039257,Discount Applied,,Discount status is missing; no assumption made.
+3285,TXN_2317621,Discount Applied,,Discount status is missing; no assumption made.
+3288,TXN_7613466,Discount Applied,,Discount status is missing; no assumption made.
+3297,TXN_2734802,Discount Applied,,Discount status is missing; no assumption made.
+3300,TXN_9913742,Discount Applied,,Discount status is missing; no assumption made.
+3310,TXN_2276327,Discount Applied,,Discount status is missing; no assumption made.
+3318,TXN_6091457,Discount Applied,,Discount status is missing; no assumption made.
+3324,TXN_1308820,Discount Applied,,Discount status is missing; no assumption made.
+3327,TXN_4699243,Discount Applied,,Discount status is missing; no assumption made.
+3330,TXN_1114527,Discount Applied,,Discount status is missing; no assumption made.
+3331,TXN_5096567,Discount Applied,,Discount status is missing; no assumption made.
+3334,TXN_6318827,Discount Applied,,Discount status is missing; no assumption made.
+3335,TXN_3654837,Discount Applied,,Discount status is missing; no assumption made.
+3336,TXN_7215241,Discount Applied,,Discount status is missing; no assumption made.
+3341,TXN_5581015,Discount Applied,,Discount status is missing; no assumption made.
+3345,TXN_8996198,Discount Applied,,Discount status is missing; no assumption made.
+3350,TXN_7453828,Discount Applied,,Discount status is missing; no assumption made.
+3356,TXN_3786905,Discount Applied,,Discount status is missing; no assumption made.
+3357,TXN_2686279,Discount Applied,,Discount status is missing; no assumption made.
+3358,TXN_6709646,Discount Applied,,Discount status is missing; no assumption made.
+3359,TXN_5699877,Discount Applied,,Discount status is missing; no assumption made.
+3361,TXN_5995427,Discount Applied,,Discount status is missing; no assumption made.
+3364,TXN_1190515,Discount Applied,,Discount status is missing; no assumption made.
+3366,TXN_7865473,Discount Applied,,Discount status is missing; no assumption made.
+3367,TXN_1696480,Discount Applied,,Discount status is missing; no assumption made.
+3369,TXN_3569395,Discount Applied,,Discount status is missing; no assumption made.
+3370,TXN_1072445,Discount Applied,,Discount status is missing; no assumption made.
+3374,TXN_1135787,Discount Applied,,Discount status is missing; no assumption made.
+3377,TXN_9336688,Discount Applied,,Discount status is missing; no assumption made.
+3385,TXN_2096878,Discount Applied,,Discount status is missing; no assumption made.
+3387,TXN_3286113,Discount Applied,,Discount status is missing; no assumption made.
+3391,TXN_8157432,Discount Applied,,Discount status is missing; no assumption made.
+3394,TXN_4988485,Discount Applied,,Discount status is missing; no assumption made.
+3395,TXN_8586288,Discount Applied,,Discount status is missing; no assumption made.
+3402,TXN_9873895,Discount Applied,,Discount status is missing; no assumption made.
+3406,TXN_4640379,Discount Applied,,Discount status is missing; no assumption made.
+3408,TXN_7383058,Discount Applied,,Discount status is missing; no assumption made.
+3410,TXN_1666699,Discount Applied,,Discount status is missing; no assumption made.
+3411,TXN_6880599,Discount Applied,,Discount status is missing; no assumption made.
+3412,TXN_5404309,Discount Applied,,Discount status is missing; no assumption made.
+3415,TXN_6387408,Discount Applied,,Discount status is missing; no assumption made.
+3416,TXN_5768026,Discount Applied,,Discount status is missing; no assumption made.
+3418,TXN_8205547,Discount Applied,,Discount status is missing; no assumption made.
+3419,TXN_4667931,Discount Applied,,Discount status is missing; no assumption made.
+3421,TXN_3006759,Discount Applied,,Discount status is missing; no assumption made.
+3431,TXN_6440347,Discount Applied,,Discount status is missing; no assumption made.
+3446,TXN_6776353,Discount Applied,,Discount status is missing; no assumption made.
+3456,TXN_9995956,Discount Applied,,Discount status is missing; no assumption made.
+3459,TXN_3217181,Discount Applied,,Discount status is missing; no assumption made.
+3466,TXN_4843139,Discount Applied,,Discount status is missing; no assumption made.
+3471,TXN_2854165,Discount Applied,,Discount status is missing; no assumption made.
+3480,TXN_2092886,Discount Applied,,Discount status is missing; no assumption made.
+3481,TXN_3442905,Discount Applied,,Discount status is missing; no assumption made.
+3483,TXN_6311154,Discount Applied,,Discount status is missing; no assumption made.
+3486,TXN_2586578,Discount Applied,,Discount status is missing; no assumption made.
+3491,TXN_6928465,Discount Applied,,Discount status is missing; no assumption made.
+3500,TXN_4303364,Discount Applied,,Discount status is missing; no assumption made.
+3501,TXN_6741391,Discount Applied,,Discount status is missing; no assumption made.
+3512,TXN_6865522,Discount Applied,,Discount status is missing; no assumption made.
+3513,TXN_5819075,Discount Applied,,Discount status is missing; no assumption made.
+3518,TXN_7137157,Discount Applied,,Discount status is missing; no assumption made.
+3522,TXN_7632749,Discount Applied,,Discount status is missing; no assumption made.
+3532,TXN_1389273,Discount Applied,,Discount status is missing; no assumption made.
+3540,TXN_3425925,Discount Applied,,Discount status is missing; no assumption made.
+3542,TXN_4907336,Discount Applied,,Discount status is missing; no assumption made.
+3543,TXN_7658187,Discount Applied,,Discount status is missing; no assumption made.
+3544,TXN_2668416,Discount Applied,,Discount status is missing; no assumption made.
+3545,TXN_4566375,Discount Applied,,Discount status is missing; no assumption made.
+3547,TXN_3206810,Discount Applied,,Discount status is missing; no assumption made.
+3548,TXN_3817527,Discount Applied,,Discount status is missing; no assumption made.
+3556,TXN_5089254,Discount Applied,,Discount status is missing; no assumption made.
+3557,TXN_9195665,Discount Applied,,Discount status is missing; no assumption made.
+3561,TXN_7621764,Discount Applied,,Discount status is missing; no assumption made.
+3569,TXN_5863182,Discount Applied,,Discount status is missing; no assumption made.
+3570,TXN_8900171,Discount Applied,,Discount status is missing; no assumption made.
+3572,TXN_8680071,Discount Applied,,Discount status is missing; no assumption made.
+3573,TXN_1988144,Discount Applied,,Discount status is missing; no assumption made.
+3575,TXN_8265795,Discount Applied,,Discount status is missing; no assumption made.
+3577,TXN_6244786,Discount Applied,,Discount status is missing; no assumption made.
+3582,TXN_3927109,Discount Applied,,Discount status is missing; no assumption made.
+3586,TXN_9536580,Discount Applied,,Discount status is missing; no assumption made.
+3594,TXN_2829553,Discount Applied,,Discount status is missing; no assumption made.
+3599,TXN_9425567,Discount Applied,,Discount status is missing; no assumption made.
+3603,TXN_9476353,Discount Applied,,Discount status is missing; no assumption made.
+3608,TXN_7489396,Discount Applied,,Discount status is missing; no assumption made.
+3611,TXN_9323880,Discount Applied,,Discount status is missing; no assumption made.
+3622,TXN_8659883,Discount Applied,,Discount status is missing; no assumption made.
+3628,TXN_1944889,Discount Applied,,Discount status is missing; no assumption made.
+3631,TXN_2082640,Discount Applied,,Discount status is missing; no assumption made.
+3633,TXN_7517963,Discount Applied,,Discount status is missing; no assumption made.
+3639,TXN_7940622,Discount Applied,,Discount status is missing; no assumption made.
+3645,TXN_3832736,Discount Applied,,Discount status is missing; no assumption made.
+3647,TXN_4476923,Discount Applied,,Discount status is missing; no assumption made.
+3649,TXN_2764688,Discount Applied,,Discount status is missing; no assumption made.
+3656,TXN_9503762,Discount Applied,,Discount status is missing; no assumption made.
+3660,TXN_7080526,Discount Applied,,Discount status is missing; no assumption made.
+3664,TXN_9189792,Discount Applied,,Discount status is missing; no assumption made.
+3666,TXN_4004032,Discount Applied,,Discount status is missing; no assumption made.
+3669,TXN_6212246,Discount Applied,,Discount status is missing; no assumption made.
+3681,TXN_5263272,Discount Applied,,Discount status is missing; no assumption made.
+3682,TXN_1424528,Discount Applied,,Discount status is missing; no assumption made.
+3684,TXN_3481410,Discount Applied,,Discount status is missing; no assumption made.
+3689,TXN_5075341,Discount Applied,,Discount status is missing; no assumption made.
+3691,TXN_5515363,Discount Applied,,Discount status is missing; no assumption made.
+3692,TXN_8573721,Discount Applied,,Discount status is missing; no assumption made.
+3696,TXN_6359050,Discount Applied,,Discount status is missing; no assumption made.
+3697,TXN_8950389,Discount Applied,,Discount status is missing; no assumption made.
+3701,TXN_3888899,Discount Applied,,Discount status is missing; no assumption made.
+3703,TXN_1817052,Discount Applied,,Discount status is missing; no assumption made.
+3707,TXN_5475156,Discount Applied,,Discount status is missing; no assumption made.
+3710,TXN_5993899,Discount Applied,,Discount status is missing; no assumption made.
+3712,TXN_9700349,Discount Applied,,Discount status is missing; no assumption made.
+3714,TXN_1707609,Discount Applied,,Discount status is missing; no assumption made.
+3718,TXN_7564571,Discount Applied,,Discount status is missing; no assumption made.
+3721,TXN_6998223,Discount Applied,,Discount status is missing; no assumption made.
+3726,TXN_7208714,Discount Applied,,Discount status is missing; no assumption made.
+3735,TXN_8530168,Discount Applied,,Discount status is missing; no assumption made.
+3741,TXN_1732958,Discount Applied,,Discount status is missing; no assumption made.
+3743,TXN_7981440,Discount Applied,,Discount status is missing; no assumption made.
+3745,TXN_4941237,Discount Applied,,Discount status is missing; no assumption made.
+3754,TXN_2012633,Discount Applied,,Discount status is missing; no assumption made.
+3758,TXN_4896854,Discount Applied,,Discount status is missing; no assumption made.
+3759,TXN_7042060,Discount Applied,,Discount status is missing; no assumption made.
+3762,TXN_4641771,Discount Applied,,Discount status is missing; no assumption made.
+3768,TXN_5445018,Discount Applied,,Discount status is missing; no assumption made.
+3780,TXN_1592747,Discount Applied,,Discount status is missing; no assumption made.
+3783,TXN_7735714,Discount Applied,,Discount status is missing; no assumption made.
+3785,TXN_1678066,Discount Applied,,Discount status is missing; no assumption made.
+3786,TXN_3865893,Discount Applied,,Discount status is missing; no assumption made.
+3793,TXN_5746825,Discount Applied,,Discount status is missing; no assumption made.
+3798,TXN_1776385,Discount Applied,,Discount status is missing; no assumption made.
+3807,TXN_3822136,Discount Applied,,Discount status is missing; no assumption made.
+3808,TXN_1298090,Discount Applied,,Discount status is missing; no assumption made.
+3809,TXN_6395995,Discount Applied,,Discount status is missing; no assumption made.
+3813,TXN_6109479,Discount Applied,,Discount status is missing; no assumption made.
+3815,TXN_8388669,Discount Applied,,Discount status is missing; no assumption made.
+3817,TXN_1052810,Discount Applied,,Discount status is missing; no assumption made.
+3818,TXN_6284869,Discount Applied,,Discount status is missing; no assumption made.
+3823,TXN_6196467,Discount Applied,,Discount status is missing; no assumption made.
+3824,TXN_2683950,Discount Applied,,Discount status is missing; no assumption made.
+3826,TXN_3339767,Discount Applied,,Discount status is missing; no assumption made.
+3850,TXN_1572242,Discount Applied,,Discount status is missing; no assumption made.
+3851,TXN_2027035,Discount Applied,,Discount status is missing; no assumption made.
+3872,TXN_7324259,Discount Applied,,Discount status is missing; no assumption made.
+3873,TXN_4722946,Discount Applied,,Discount status is missing; no assumption made.
+3875,TXN_1293996,Discount Applied,,Discount status is missing; no assumption made.
+3876,TXN_7720948,Discount Applied,,Discount status is missing; no assumption made.
+3880,TXN_1415008,Discount Applied,,Discount status is missing; no assumption made.
+3885,TXN_3583677,Discount Applied,,Discount status is missing; no assumption made.
+3886,TXN_1859254,Discount Applied,,Discount status is missing; no assumption made.
+3887,TXN_4006809,Discount Applied,,Discount status is missing; no assumption made.
+3901,TXN_3182136,Discount Applied,,Discount status is missing; no assumption made.
+3907,TXN_3957498,Discount Applied,,Discount status is missing; no assumption made.
+3908,TXN_6489464,Discount Applied,,Discount status is missing; no assumption made.
+3915,TXN_7734853,Discount Applied,,Discount status is missing; no assumption made.
+3927,TXN_4740079,Discount Applied,,Discount status is missing; no assumption made.
+3938,TXN_7353300,Discount Applied,,Discount status is missing; no assumption made.
+3944,TXN_9976061,Discount Applied,,Discount status is missing; no assumption made.
+3948,TXN_8020988,Discount Applied,,Discount status is missing; no assumption made.
+3949,TXN_1547526,Discount Applied,,Discount status is missing; no assumption made.
+3950,TXN_8930221,Discount Applied,,Discount status is missing; no assumption made.
+3962,TXN_5343699,Discount Applied,,Discount status is missing; no assumption made.
+3964,TXN_5818060,Discount Applied,,Discount status is missing; no assumption made.
+3968,TXN_5242546,Discount Applied,,Discount status is missing; no assumption made.
+3974,TXN_4386243,Discount Applied,,Discount status is missing; no assumption made.
+3980,TXN_4025452,Discount Applied,,Discount status is missing; no assumption made.
+3982,TXN_2609425,Discount Applied,,Discount status is missing; no assumption made.
+3988,TXN_2274887,Discount Applied,,Discount status is missing; no assumption made.
+3991,TXN_6698618,Discount Applied,,Discount status is missing; no assumption made.
+3992,TXN_4251298,Discount Applied,,Discount status is missing; no assumption made.
+3994,TXN_9223269,Discount Applied,,Discount status is missing; no assumption made.
+3996,TXN_7241602,Discount Applied,,Discount status is missing; no assumption made.
+3997,TXN_6661115,Discount Applied,,Discount status is missing; no assumption made.
+4000,TXN_8404238,Discount Applied,,Discount status is missing; no assumption made.
+4001,TXN_4041035,Discount Applied,,Discount status is missing; no assumption made.
+4002,TXN_9264222,Discount Applied,,Discount status is missing; no assumption made.
+4003,TXN_2844053,Discount Applied,,Discount status is missing; no assumption made.
+4017,TXN_1747750,Discount Applied,,Discount status is missing; no assumption made.
+4023,TXN_6592992,Discount Applied,,Discount status is missing; no assumption made.
+4025,TXN_3035936,Discount Applied,,Discount status is missing; no assumption made.
+4027,TXN_2020864,Discount Applied,,Discount status is missing; no assumption made.
+4051,TXN_9620780,Discount Applied,,Discount status is missing; no assumption made.
+4052,TXN_9214369,Discount Applied,,Discount status is missing; no assumption made.
+4056,TXN_7621528,Discount Applied,,Discount status is missing; no assumption made.
+4061,TXN_9921194,Discount Applied,,Discount status is missing; no assumption made.
+4063,TXN_9264258,Discount Applied,,Discount status is missing; no assumption made.
+4065,TXN_3338782,Discount Applied,,Discount status is missing; no assumption made.
+4066,TXN_4577964,Discount Applied,,Discount status is missing; no assumption made.
+4067,TXN_5391324,Discount Applied,,Discount status is missing; no assumption made.
+4068,TXN_6005332,Discount Applied,,Discount status is missing; no assumption made.
+4085,TXN_8880317,Discount Applied,,Discount status is missing; no assumption made.
+4086,TXN_8657427,Discount Applied,,Discount status is missing; no assumption made.
+4094,TXN_3238154,Discount Applied,,Discount status is missing; no assumption made.
+4101,TXN_3738565,Discount Applied,,Discount status is missing; no assumption made.
+4103,TXN_3943295,Discount Applied,,Discount status is missing; no assumption made.
+4114,TXN_6747016,Discount Applied,,Discount status is missing; no assumption made.
+4115,TXN_3141910,Discount Applied,,Discount status is missing; no assumption made.
+4119,TXN_7839789,Discount Applied,,Discount status is missing; no assumption made.
+4120,TXN_8555171,Discount Applied,,Discount status is missing; no assumption made.
+4121,TXN_1516408,Discount Applied,,Discount status is missing; no assumption made.
+4123,TXN_2920339,Discount Applied,,Discount status is missing; no assumption made.
+4124,TXN_6455353,Discount Applied,,Discount status is missing; no assumption made.
+4127,TXN_9788064,Discount Applied,,Discount status is missing; no assumption made.
+4129,TXN_7478687,Discount Applied,,Discount status is missing; no assumption made.
+4133,TXN_4093622,Discount Applied,,Discount status is missing; no assumption made.
+4138,TXN_8304403,Discount Applied,,Discount status is missing; no assumption made.
+4148,TXN_5235042,Discount Applied,,Discount status is missing; no assumption made.
+4154,TXN_5176213,Discount Applied,,Discount status is missing; no assumption made.
+4155,TXN_4763302,Discount Applied,,Discount status is missing; no assumption made.
+4158,TXN_3046416,Discount Applied,,Discount status is missing; no assumption made.
+4159,TXN_8933296,Discount Applied,,Discount status is missing; no assumption made.
+4163,TXN_1401067,Discount Applied,,Discount status is missing; no assumption made.
+4166,TXN_2531583,Discount Applied,,Discount status is missing; no assumption made.
+4167,TXN_1375844,Discount Applied,,Discount status is missing; no assumption made.
+4171,TXN_4878979,Discount Applied,,Discount status is missing; no assumption made.
+4172,TXN_5143403,Discount Applied,,Discount status is missing; no assumption made.
+4175,TXN_9480473,Discount Applied,,Discount status is missing; no assumption made.
+4177,TXN_4881517,Discount Applied,,Discount status is missing; no assumption made.
+4180,TXN_6358545,Discount Applied,,Discount status is missing; no assumption made.
+4185,TXN_8173449,Discount Applied,,Discount status is missing; no assumption made.
+4188,TXN_3245196,Discount Applied,,Discount status is missing; no assumption made.
+4195,TXN_5096920,Discount Applied,,Discount status is missing; no assumption made.
+4197,TXN_4864044,Discount Applied,,Discount status is missing; no assumption made.
+4201,TXN_3092041,Discount Applied,,Discount status is missing; no assumption made.
+4210,TXN_6132869,Discount Applied,,Discount status is missing; no assumption made.
+4213,TXN_5003487,Discount Applied,,Discount status is missing; no assumption made.
+4217,TXN_5192896,Discount Applied,,Discount status is missing; no assumption made.
+4224,TXN_3788028,Discount Applied,,Discount status is missing; no assumption made.
+4230,TXN_6144474,Discount Applied,,Discount status is missing; no assumption made.
+4234,TXN_7412953,Discount Applied,,Discount status is missing; no assumption made.
+4236,TXN_6251044,Discount Applied,,Discount status is missing; no assumption made.
+4239,TXN_8637431,Discount Applied,,Discount status is missing; no assumption made.
+4241,TXN_6843947,Discount Applied,,Discount status is missing; no assumption made.
+4258,TXN_2238503,Discount Applied,,Discount status is missing; no assumption made.
+4259,TXN_1936232,Discount Applied,,Discount status is missing; no assumption made.
+4260,TXN_9944718,Discount Applied,,Discount status is missing; no assumption made.
+4262,TXN_6049144,Discount Applied,,Discount status is missing; no assumption made.
+4267,TXN_9448893,Discount Applied,,Discount status is missing; no assumption made.
+4268,TXN_5382653,Discount Applied,,Discount status is missing; no assumption made.
+4272,TXN_6742533,Discount Applied,,Discount status is missing; no assumption made.
+4276,TXN_7882165,Discount Applied,,Discount status is missing; no assumption made.
+4282,TXN_5721339,Discount Applied,,Discount status is missing; no assumption made.
+4290,TXN_2206861,Discount Applied,,Discount status is missing; no assumption made.
+4292,TXN_8758416,Discount Applied,,Discount status is missing; no assumption made.
+4293,TXN_4802800,Discount Applied,,Discount status is missing; no assumption made.
+4294,TXN_8243710,Discount Applied,,Discount status is missing; no assumption made.
+4295,TXN_6164920,Discount Applied,,Discount status is missing; no assumption made.
+4296,TXN_5325773,Discount Applied,,Discount status is missing; no assumption made.
+4298,TXN_6612050,Discount Applied,,Discount status is missing; no assumption made.
+4300,TXN_9603971,Discount Applied,,Discount status is missing; no assumption made.
+4313,TXN_2704910,Discount Applied,,Discount status is missing; no assumption made.
+4317,TXN_3767359,Discount Applied,,Discount status is missing; no assumption made.
+4325,TXN_3427540,Discount Applied,,Discount status is missing; no assumption made.
+4328,TXN_1090061,Discount Applied,,Discount status is missing; no assumption made.
+4331,TXN_8783308,Discount Applied,,Discount status is missing; no assumption made.
+4332,TXN_7385932,Discount Applied,,Discount status is missing; no assumption made.
+4334,TXN_7632170,Discount Applied,,Discount status is missing; no assumption made.
+4349,TXN_7806785,Discount Applied,,Discount status is missing; no assumption made.
+4351,TXN_8694481,Discount Applied,,Discount status is missing; no assumption made.
+4360,TXN_1630363,Discount Applied,,Discount status is missing; no assumption made.
+4361,TXN_1953122,Discount Applied,,Discount status is missing; no assumption made.
+4363,TXN_7542219,Discount Applied,,Discount status is missing; no assumption made.
+4369,TXN_8391599,Discount Applied,,Discount status is missing; no assumption made.
+4370,TXN_8241282,Discount Applied,,Discount status is missing; no assumption made.
+4375,TXN_3852889,Discount Applied,,Discount status is missing; no assumption made.
+4377,TXN_1458819,Discount Applied,,Discount status is missing; no assumption made.
+4382,TXN_9301356,Discount Applied,,Discount status is missing; no assumption made.
+4394,TXN_5726429,Discount Applied,,Discount status is missing; no assumption made.
+4399,TXN_2024627,Discount Applied,,Discount status is missing; no assumption made.
+4408,TXN_4795827,Discount Applied,,Discount status is missing; no assumption made.
+4415,TXN_6728160,Discount Applied,,Discount status is missing; no assumption made.
+4416,TXN_3997629,Discount Applied,,Discount status is missing; no assumption made.
+4420,TXN_3883791,Discount Applied,,Discount status is missing; no assumption made.
+4421,TXN_8517010,Discount Applied,,Discount status is missing; no assumption made.
+4422,TXN_4232277,Discount Applied,,Discount status is missing; no assumption made.
+4427,TXN_7504266,Discount Applied,,Discount status is missing; no assumption made.
+4432,TXN_7478444,Discount Applied,,Discount status is missing; no assumption made.
+4433,TXN_9078968,Discount Applied,,Discount status is missing; no assumption made.
+4434,TXN_9282577,Discount Applied,,Discount status is missing; no assumption made.
+4437,TXN_9923390,Discount Applied,,Discount status is missing; no assumption made.
+4438,TXN_4323180,Discount Applied,,Discount status is missing; no assumption made.
+4441,TXN_5098683,Discount Applied,,Discount status is missing; no assumption made.
+4453,TXN_1726331,Discount Applied,,Discount status is missing; no assumption made.
+4460,TXN_5919454,Discount Applied,,Discount status is missing; no assumption made.
+4468,TXN_1317942,Discount Applied,,Discount status is missing; no assumption made.
+4479,TXN_7543084,Discount Applied,,Discount status is missing; no assumption made.
+4483,TXN_1209816,Discount Applied,,Discount status is missing; no assumption made.
+4495,TXN_9606776,Discount Applied,,Discount status is missing; no assumption made.
+4496,TXN_9017638,Discount Applied,,Discount status is missing; no assumption made.
+4498,TXN_9351870,Discount Applied,,Discount status is missing; no assumption made.
+4499,TXN_8082122,Discount Applied,,Discount status is missing; no assumption made.
+4504,TXN_5327261,Discount Applied,,Discount status is missing; no assumption made.
+4511,TXN_5073273,Discount Applied,,Discount status is missing; no assumption made.
+4514,TXN_3738384,Discount Applied,,Discount status is missing; no assumption made.
+4517,TXN_5245842,Discount Applied,,Discount status is missing; no assumption made.
+4522,TXN_9325648,Discount Applied,,Discount status is missing; no assumption made.
+4527,TXN_1070463,Discount Applied,,Discount status is missing; no assumption made.
+4532,TXN_8764050,Discount Applied,,Discount status is missing; no assumption made.
+4536,TXN_6966504,Discount Applied,,Discount status is missing; no assumption made.
+4537,TXN_9841326,Discount Applied,,Discount status is missing; no assumption made.
+4540,TXN_9020235,Discount Applied,,Discount status is missing; no assumption made.
+4548,TXN_6887898,Discount Applied,,Discount status is missing; no assumption made.
+4557,TXN_4968349,Discount Applied,,Discount status is missing; no assumption made.
+4566,TXN_9843026,Discount Applied,,Discount status is missing; no assumption made.
+4573,TXN_8896032,Discount Applied,,Discount status is missing; no assumption made.
+4574,TXN_8050305,Discount Applied,,Discount status is missing; no assumption made.
+4575,TXN_2406328,Discount Applied,,Discount status is missing; no assumption made.
+4585,TXN_5331597,Discount Applied,,Discount status is missing; no assumption made.
+4590,TXN_5577066,Discount Applied,,Discount status is missing; no assumption made.
+4594,TXN_5149658,Discount Applied,,Discount status is missing; no assumption made.
+4596,TXN_5536929,Discount Applied,,Discount status is missing; no assumption made.
+4598,TXN_8950806,Discount Applied,,Discount status is missing; no assumption made.
+4601,TXN_1769155,Discount Applied,,Discount status is missing; no assumption made.
+4605,TXN_2301561,Discount Applied,,Discount status is missing; no assumption made.
+4612,TXN_6220877,Discount Applied,,Discount status is missing; no assumption made.
+4613,TXN_9874293,Discount Applied,,Discount status is missing; no assumption made.
+4614,TXN_2552975,Discount Applied,,Discount status is missing; no assumption made.
+4616,TXN_8018838,Discount Applied,,Discount status is missing; no assumption made.
+4617,TXN_4353212,Discount Applied,,Discount status is missing; no assumption made.
+4618,TXN_3874726,Discount Applied,,Discount status is missing; no assumption made.
+4620,TXN_8793067,Discount Applied,,Discount status is missing; no assumption made.
+4622,TXN_3529305,Discount Applied,,Discount status is missing; no assumption made.
+4627,TXN_5379845,Discount Applied,,Discount status is missing; no assumption made.
+4629,TXN_4456653,Discount Applied,,Discount status is missing; no assumption made.
+4630,TXN_8230931,Discount Applied,,Discount status is missing; no assumption made.
+4636,TXN_4204991,Discount Applied,,Discount status is missing; no assumption made.
+4639,TXN_4127736,Discount Applied,,Discount status is missing; no assumption made.
+4641,TXN_5704250,Discount Applied,,Discount status is missing; no assumption made.
+4646,TXN_3638968,Discount Applied,,Discount status is missing; no assumption made.
+4648,TXN_2508774,Discount Applied,,Discount status is missing; no assumption made.
+4651,TXN_1993663,Discount Applied,,Discount status is missing; no assumption made.
+4653,TXN_2454609,Discount Applied,,Discount status is missing; no assumption made.
+4655,TXN_5233518,Discount Applied,,Discount status is missing; no assumption made.
+4657,TXN_3023106,Discount Applied,,Discount status is missing; no assumption made.
+4667,TXN_7778892,Discount Applied,,Discount status is missing; no assumption made.
+4675,TXN_8267104,Discount Applied,,Discount status is missing; no assumption made.
+4676,TXN_5537358,Discount Applied,,Discount status is missing; no assumption made.
+4678,TXN_5461956,Discount Applied,,Discount status is missing; no assumption made.
+4681,TXN_7356228,Discount Applied,,Discount status is missing; no assumption made.
+4686,TXN_9180801,Discount Applied,,Discount status is missing; no assumption made.
+4689,TXN_6818528,Discount Applied,,Discount status is missing; no assumption made.
+4692,TXN_6767619,Discount Applied,,Discount status is missing; no assumption made.
+4697,TXN_9214491,Discount Applied,,Discount status is missing; no assumption made.
+4699,TXN_7061266,Discount Applied,,Discount status is missing; no assumption made.
+4700,TXN_8989520,Discount Applied,,Discount status is missing; no assumption made.
+4701,TXN_8361657,Discount Applied,,Discount status is missing; no assumption made.
+4702,TXN_8655849,Discount Applied,,Discount status is missing; no assumption made.
+4703,TXN_5802738,Discount Applied,,Discount status is missing; no assumption made.
+4704,TXN_2292334,Discount Applied,,Discount status is missing; no assumption made.
+4710,TXN_2656484,Discount Applied,,Discount status is missing; no assumption made.
+4711,TXN_7825755,Discount Applied,,Discount status is missing; no assumption made.
+4712,TXN_9352500,Discount Applied,,Discount status is missing; no assumption made.
+4713,TXN_2593912,Discount Applied,,Discount status is missing; no assumption made.
+4715,TXN_7654754,Discount Applied,,Discount status is missing; no assumption made.
+4720,TXN_5841192,Discount Applied,,Discount status is missing; no assumption made.
+4724,TXN_2362270,Discount Applied,,Discount status is missing; no assumption made.
+4732,TXN_2150902,Discount Applied,,Discount status is missing; no assumption made.
+4740,TXN_7813364,Discount Applied,,Discount status is missing; no assumption made.
+4745,TXN_8214615,Discount Applied,,Discount status is missing; no assumption made.
+4751,TXN_9333100,Discount Applied,,Discount status is missing; no assumption made.
+4754,TXN_6780618,Discount Applied,,Discount status is missing; no assumption made.
+4769,TXN_9908385,Discount Applied,,Discount status is missing; no assumption made.
+4770,TXN_9646761,Discount Applied,,Discount status is missing; no assumption made.
+4772,TXN_3914611,Discount Applied,,Discount status is missing; no assumption made.
+4773,TXN_5172470,Discount Applied,,Discount status is missing; no assumption made.
+4775,TXN_3507720,Discount Applied,,Discount status is missing; no assumption made.
+4783,TXN_6985669,Discount Applied,,Discount status is missing; no assumption made.
+4798,TXN_2945188,Discount Applied,,Discount status is missing; no assumption made.
+4808,TXN_9366073,Discount Applied,,Discount status is missing; no assumption made.
+4809,TXN_1951738,Discount Applied,,Discount status is missing; no assumption made.
+4813,TXN_3005464,Discount Applied,,Discount status is missing; no assumption made.
+4815,TXN_6343926,Discount Applied,,Discount status is missing; no assumption made.
+4817,TXN_3223712,Discount Applied,,Discount status is missing; no assumption made.
+4818,TXN_1788957,Discount Applied,,Discount status is missing; no assumption made.
+4823,TXN_3651838,Discount Applied,,Discount status is missing; no assumption made.
+4828,TXN_4747316,Discount Applied,,Discount status is missing; no assumption made.
+4835,TXN_5539170,Discount Applied,,Discount status is missing; no assumption made.
+4837,TXN_5568798,Discount Applied,,Discount status is missing; no assumption made.
+4856,TXN_8995515,Discount Applied,,Discount status is missing; no assumption made.
+4861,TXN_9797522,Discount Applied,,Discount status is missing; no assumption made.
+4864,TXN_7908801,Discount Applied,,Discount status is missing; no assumption made.
+4870,TXN_7268372,Discount Applied,,Discount status is missing; no assumption made.
+4872,TXN_7626924,Discount Applied,,Discount status is missing; no assumption made.
+4874,TXN_9550319,Discount Applied,,Discount status is missing; no assumption made.
+4878,TXN_1389892,Discount Applied,,Discount status is missing; no assumption made.
+4880,TXN_3714195,Discount Applied,,Discount status is missing; no assumption made.
+4881,TXN_6916645,Discount Applied,,Discount status is missing; no assumption made.
+4885,TXN_2443537,Discount Applied,,Discount status is missing; no assumption made.
+4890,TXN_4744893,Discount Applied,,Discount status is missing; no assumption made.
+4896,TXN_6926777,Discount Applied,,Discount status is missing; no assumption made.
+4897,TXN_5973198,Discount Applied,,Discount status is missing; no assumption made.
+4899,TXN_3326797,Discount Applied,,Discount status is missing; no assumption made.
+4902,TXN_7346502,Discount Applied,,Discount status is missing; no assumption made.
+4907,TXN_6356450,Discount Applied,,Discount status is missing; no assumption made.
+4913,TXN_2255358,Discount Applied,,Discount status is missing; no assumption made.
+4915,TXN_7725630,Discount Applied,,Discount status is missing; no assumption made.
+4921,TXN_1298783,Discount Applied,,Discount status is missing; no assumption made.
+4929,TXN_4641141,Discount Applied,,Discount status is missing; no assumption made.
+4933,TXN_2590143,Discount Applied,,Discount status is missing; no assumption made.
+4934,TXN_2989150,Discount Applied,,Discount status is missing; no assumption made.
+4940,TXN_7185620,Discount Applied,,Discount status is missing; no assumption made.
+4944,TXN_2811992,Discount Applied,,Discount status is missing; no assumption made.
+4947,TXN_3041350,Discount Applied,,Discount status is missing; no assumption made.
+4948,TXN_6553535,Discount Applied,,Discount status is missing; no assumption made.
+4961,TXN_8458403,Discount Applied,,Discount status is missing; no assumption made.
+4962,TXN_2561014,Discount Applied,,Discount status is missing; no assumption made.
+4970,TXN_9809609,Discount Applied,,Discount status is missing; no assumption made.
+4976,TXN_6805403,Discount Applied,,Discount status is missing; no assumption made.
+4977,TXN_7324152,Discount Applied,,Discount status is missing; no assumption made.
+4980,TXN_6232533,Discount Applied,,Discount status is missing; no assumption made.
+4990,TXN_9757529,Discount Applied,,Discount status is missing; no assumption made.
+4996,TXN_9176113,Discount Applied,,Discount status is missing; no assumption made.
+4997,TXN_5262511,Discount Applied,,Discount status is missing; no assumption made.
+4998,TXN_2173788,Discount Applied,,Discount status is missing; no assumption made.
+4999,TXN_6615827,Discount Applied,,Discount status is missing; no assumption made.
+5010,TXN_6672540,Discount Applied,,Discount status is missing; no assumption made.
+5012,TXN_2594362,Discount Applied,,Discount status is missing; no assumption made.
+5013,TXN_9531814,Discount Applied,,Discount status is missing; no assumption made.
+5022,TXN_6688904,Discount Applied,,Discount status is missing; no assumption made.
+5027,TXN_3538309,Discount Applied,,Discount status is missing; no assumption made.
+5032,TXN_1570352,Discount Applied,,Discount status is missing; no assumption made.
+5035,TXN_4130826,Discount Applied,,Discount status is missing; no assumption made.
+5036,TXN_1855695,Discount Applied,,Discount status is missing; no assumption made.
