@@ -61,8 +61,7 @@ How to Run
 
 pip install pandas
 
-2. Place "cleaner.py" and "retail_store_sales_dirty.csv" in the same directory.
-
+2. Place "cleaner.py" and "retail_store_sales_dirty.csv" in the same directory, run python messy.py to generate the sample dataset, then python cleaner.py to clean it.
 3. Run the script.
 
 python cleaner.py
